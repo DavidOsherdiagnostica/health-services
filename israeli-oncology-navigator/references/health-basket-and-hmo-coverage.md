@@ -1,4 +1,4 @@
-# Health Basket (Sal HaBriut) and HMO Supplementary Insurance for Cancer — 2026
+# Health Basket (Sal HaBriut) and HMO Supplementary Insurance for Cancer -- 2026
 
 > Disclaimer: Figures and plan names are January 2026 values. Supplementary insurance regulations are updated every one or two years; the specific plan's current regulations PDF is the authoritative document. Do not quote a specific non-basket cap without opening the regulations PDF for that plan.
 
@@ -11,15 +11,15 @@
 **Notable 2026 oncology additions (verified):**
 
 *Solid tumors:*
-- **Imfinzi** — bladder cancer and gastric cancer (peri-operative setting)
-- **Tagrisso** — post-operative EGFR-positive non-small-cell lung cancer
-- **Keytruda** — head-and-neck cancer; advanced or recurrent endometrial cancer
-- **Enhertu** — HER2-low breast cancer
+- **Imfinzi** -- bladder cancer and gastric cancer (peri-operative setting)
+- **Tagrisso** -- post-operative EGFR-positive non-small-cell lung cancer
+- **Keytruda** -- head-and-neck cancer; advanced or recurrent endometrial cancer
+- **Enhertu** -- HER2-low breast cancer
 
 *Hematology:*
-- **Adcetris** — first-line Hodgkin lymphoma
+- **Adcetris** -- first-line Hodgkin lymphoma
 
-Source: 2026 basket coverage at Mako — https://www.mako.co.il/health-news/Article-98d4f447a767c91026.htm
+Source: 2026 basket coverage at Mako -- https://www.mako.co.il/health-news/Article-98d4f447a767c91026.htm
 
 There are also reports of additions of bispecific antibodies and antibody-drug conjugates (ADCs) for relapsed/refractory multiple myeloma and lymphoma, but specific drug names should be verified directly against the official Ministry of Health 2026 basket PDF before quoting:
 https://www.gov.il/BlobFolder/reports/hbs2026/he/files_committees_hbs_2026_List-of-medicines-and-medical-food-2026.pdf
@@ -67,7 +67,7 @@ Each of the four HMOs sells two supplementary tiers. Non-basket oncology drug co
 **Important caveats:**
 
 - Caps and exclusions vary by plan tier and by renewal date. Always cite the dated regulations PDF for the specific plan.
-- For Clalit Mushlam Zahav/Platinum, the standard "extended drug coverage at 50% co-pay up to ₪358 per pack per month" benefit **does NOT apply to oncology/hemato-oncology** — these are excluded from that track and handled under the separate non-basket cap.
+- For Clalit Mushlam Zahav/Platinum, the standard "extended drug coverage at 50% co-pay up to ₪358 per pack per month" benefit **does NOT apply to oncology/hemato-oncology** -- these are excluded from that track and handled under the separate non-basket cap.
 - Off-label use coverage is plan-dependent.
 
 ## 4. Second Opinion (חוות דעת שנייה)
@@ -142,17 +142,17 @@ Confirmed centers delivering CAR-T:
 
 Hadassah Ein Kerem developed an in-house CAR-T product, **HBI0101 / NXC-201**, for relapsed/refractory multiple myeloma and AL amyloidosis. A phase Ia/b clinical trial reported a high Overall Response Rate in patients treated at the maximum dose level. For Israeli patients, access is via trial enrollment at Hadassah; it is not basket-funded as a routine therapy.
 
-Source: PubMed entry for the HBI0101 phase Ia/b paper — https://pubmed.ncbi.nlm.nih.gov/36200421/
+Source: PubMed entry for the HBI0101 phase Ia/b paper -- https://pubmed.ncbi.nlm.nih.gov/36200421/
 
 ## Key source URLs
 
-- Ministry of Health — 2026 List of Medicines PDF: https://www.gov.il/BlobFolder/reports/hbs2026/he/files_committees_hbs_2026_List-of-medicines-and-medical-food-2026.pdf
-- Kolzchut — Appealing to the Health Plan Exceptions Committee: https://www.kolzchut.org.il/en/Appealing_to_the_Health_Plan_Exceptions_Committee
-- Kolzchut — Supportive Home Care (Palliative Care): https://www.kolzchut.org.il/en/Supportive_Home_Care_(Palliative_Care)
-- Kolzchut — Funding Medical Treatment Abroad: https://www.kolzchut.org.il/en/Funding_Medical_Treatment_Abroad
-- Kolzchut — Fertility Preservation: https://www.kolzchut.org.il/en/Fertility_Preservation
-- gov.il — Oocyte cryopreservation: https://www.gov.il/he/service/oocyte-cryopreservation
-- Clalit — Mushlam drugs page: https://mushlam.clalit.co.il/he/medications/Pages/drugs_uncovered.aspx
-- Maccabi — Zahav regulations: https://www.maccabi4u.co.il/media/lxtetxif/maccabi_zahav_regulations.pdf
-- Maccabi — Sheli regulations: https://www.maccabi4u.co.il/media/no1nug5m/maccabi_sheli_regulations.pdf
-- Leumit — Silver and Gold plans: https://www.leumit.co.il/insurance-policies/leumit-silver-and-gold/
+- Ministry of Health -- 2026 List of Medicines PDF: https://www.gov.il/BlobFolder/reports/hbs2026/he/files_committees_hbs_2026_List-of-medicines-and-medical-food-2026.pdf
+- Kolzchut -- Appealing to the Health Plan Exceptions Committee: https://www.kolzchut.org.il/en/Appealing_to_the_Health_Plan_Exceptions_Committee
+- Kolzchut -- Supportive Home Care (Palliative Care): https://www.kolzchut.org.il/en/Supportive_Home_Care_(Palliative_Care)
+- Kolzchut -- Funding Medical Treatment Abroad: https://www.kolzchut.org.il/en/Funding_Medical_Treatment_Abroad
+- Kolzchut -- Fertility Preservation: https://www.kolzchut.org.il/en/Fertility_Preservation
+- gov.il -- Oocyte cryopreservation: https://www.gov.il/he/service/oocyte-cryopreservation
+- Clalit -- Mushlam drugs page: https://mushlam.clalit.co.il/he/medications/Pages/drugs_uncovered.aspx
+- Maccabi -- Zahav regulations: https://www.maccabi4u.co.il/media/lxtetxif/maccabi_zahav_regulations.pdf
+- Maccabi -- Sheli regulations: https://www.maccabi4u.co.il/media/no1nug5m/maccabi_sheli_regulations.pdf
+- Leumit -- Silver and Gold plans: https://www.leumit.co.il/insurance-policies/leumit-silver-and-gold/

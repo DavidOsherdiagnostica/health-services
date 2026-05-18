@@ -11,7 +11,7 @@ The single most under-claimed entitlement. Active-treatment oncology patients (c
 - **Minimum eligibility period**: 6 months from the day treatment starts
 - **Continuation**: 1 month past the end of active treatment, then drops to the rate that matches the patient's updated functional level
 
-The oncology department social worker files this. Do NOT tell a patient in active treatment to book a Bituach Leumi committee appointment — that wastes weeks.
+The oncology department social worker files this. Do NOT tell a patient in active treatment to book a Bituach Leumi committee appointment -- that wastes weeks.
 
 Source: Kolzchut, "Determining Eligibility for Special Services Allowance for Cancer Patients Without Attending a Medical Committee" and the Bituach Leumi "Special Services" eligibility page.
 
@@ -44,11 +44,11 @@ Eligibility: from birth until age 18 years and 3 months, for any child with a co
 |-----------|------|-----------------|
 | Active chemotherapy or radiation | 235% | ₪9,126 |
 | Five months after active treatment ends | 100% | ₪3,820 |
-| Biological treatments (separate track) | 100% | ₪3,820 — minimum 6 months from the day treatment starts |
+| Biological treatments (separate track) | 100% | ₪3,820 -- minimum 6 months from the day treatment starts |
 
-Source: Bituach Leumi "Disabled Child — Malignancy" page and Kolzchut parents' guide.
+Source: Bituach Leumi "Disabled Child -- Malignancy" page and Kolzchut parents' guide.
 
-## 4. Income Tax Exemption — Section 9(5) of the Income Tax Ordinance
+## 4. Income Tax Exemption -- Section 9(5) of the Income Tax Ordinance
 
 Large tax exemption for cancer patients who meet the threshold.
 
@@ -74,14 +74,14 @@ Source: Kolzchut, "Cancer Patients".
 
 ## 6. Right to Appeal (ערר)
 
-**The 30-day rule is the most common missed deadline.**
+**The 60-day rule is the most common missed deadline.**
 
-- Written appeal must be filed within **30 days** of receiving the medical committee decision
-- Bituach Leumi in practice accepts filings up to **90 days**, but do not rely on this
-- If the appeal is filed on time without full reasons, the deadline for reasons is extended by 30 days
-- Hearings are typically scheduled 60 to 90 days after filing
-- The appellant may be represented by a lawyer, social worker, or representative of their choice
-- Travel and lodging reimbursement can be claimed
+- Written appeal must be filed within **60 days** of receiving the medical committee decision (statutory window, applies to both נכות כללית and שר"מ committees). Source: Kolzchut, `ערר על החלטה רפואית בעניין נכות כללית`, quoting "יש להגיש בתוך 60 יום ממועד קבלת ההודעה הכתובה".
+- Bituach Leumi in practice accepts filings up to **90 days** as informal grace, but do not rely on it. File by the 60-day statutory deadline whenever possible.
+- If the appeal notice is filed on time without full reasons, the deadline for submitting reasons is extended by 30 additional days.
+- Hearings are typically scheduled 60 to 90 days after filing.
+- The appellant may be represented by a lawyer, social worker, or representative of their choice.
+- Travel and lodging reimbursement can be claimed.
 
 **Further appeal** on legal grounds only lies to the Regional Labor Court.
 
@@ -101,15 +101,15 @@ The exact list of recognized work-related cancers evolves through case law. Refe
 | Special services 235% (hospice) | 235% | Oncology social worker | At hospice admission |
 | General disability pension (full) | ₪4,711/mo (2026) | Bituach Leumi | Post-committee |
 | Child disability (active malignancy) | ₪9,126/mo (2026) | Oncology social worker | At diagnosis |
-| Child disability (5 months post-treatment) | ₪3,820/mo (2026) | Automatic rollover | — |
+| Child disability (5 months post-treatment) | ₪3,820/mo (2026) | Automatic rollover | -- |
 | Tax exemption (Section 9(5)) | Large | Tax Authority "Green Wave" | After 90%+ determination |
 | Sick pay day 1 | 100% from day 1 | Employer | Per absence |
-| Appeal a disability refusal | — | Appeals committee | 30 days |
+| Appeal a disability refusal | (in writing) | Medical Appeals Committee | 60 days (statutory); 30-day extension for reasons |
 
 ## Key source URLs
 
-- Kolzchut — Cancer Patients: https://www.kolzchut.org.il/en/Cancer_Patients
-- Bituach Leumi — Disability rates: https://www.btl.gov.il/benefits/Disability/Pages/%D7%A9%D7%99%D7%A2%D7%95%D7%A8%D7%99%20%D7%94%D7%A7%D7%A6%D7%91%D7%94.aspx
-- Bituach Leumi — 2026 rate update: https://www.btl.gov.il/About/news/Pages/hadasaidkonkitzva2026.aspx
-- Bituach Leumi — Disabled Child (Malignancy): https://www.btl.gov.il/benefits/Disabled_Child/likuilist/Pages/cancer.aspx
-- Kolzchut — Appealing a General Disability Medical Committee Decision: https://www.kolzchut.org.il/en/Appealing_a_General_Disability_Medical_Committee_Decision
+- Kolzchut -- Cancer Patients: https://www.kolzchut.org.il/en/Cancer_Patients
+- Bituach Leumi -- Disability rates: https://www.btl.gov.il/benefits/Disability/Pages/%D7%A9%D7%99%D7%A2%D7%95%D7%A8%D7%99%20%D7%94%D7%A7%D7%A6%D7%91%D7%94.aspx
+- Bituach Leumi -- 2026 rate update: https://www.btl.gov.il/About/news/Pages/hadasaidkonkitzva2026.aspx
+- Bituach Leumi -- Disabled Child (Malignancy): https://www.btl.gov.il/benefits/Disabled_Child/likuilist/Pages/cancer.aspx
+- Kolzchut -- Appealing a General Disability Medical Committee Decision: https://www.kolzchut.org.il/en/Appealing_a_General_Disability_Medical_Committee_Decision

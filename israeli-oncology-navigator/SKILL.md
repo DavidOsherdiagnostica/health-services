@@ -157,7 +157,7 @@ Bispecific-antibody and ADC additions for R/R MM and lymphoma have been reported
 - **Surgery wait-time + Form 17:** if HMO can't meet the legally-mandated wait window, contact מוקד הסדרים -- they have 24h to find a date or issue Form 17 (התחייבות) for any authorized facility.
 - **Genetic testing (hereditary cancer):** BRCA, Lynch, Li-Fraumeni, FAP, MEN1/2, VHL, PTEN. Free for patients + first-degree relatives. Positive carriers get structured surveillance.
 - **Home chemotherapy:** selected regimens delivered at home via HMO nurse or portable infuser pump. Ask the oncologist about regimen eligibility.
-- **Medical cannabis (post-April 2024):** cancer patients need only a prescription from a certified physician -- no license process. ~₪186/year.
+- **Medical cannabis (post-April 2024):** cancer patients need only a prescription from a certified physician -- no license process. Fixed annual prescription fee of ₪180/year.
 - **Post-surgical rehab and prosthetics:** site-specific (breast reconstruction, stoma supplies, voice/swallowing rehab, prosthetic limbs, continence supplies, cognitive rehab, wigs). Activate via HMO rehabilitation coordinator (רכז שיקום).
 
 Sources for all: Kolzchut + ICA + gov.il -- full URLs in Reference Links.
@@ -387,6 +387,10 @@ The pattern across all three: oncology social worker first → Step 3 (Bituach L
 ### References
 - `references/bituach-leumi-oncology-rights.md` -- Detailed breakdown of nechut, special services, disabled-child allowance, tax exemption, and appeals, with 2026 amounts.
 - `references/health-basket-and-hmo-coverage.md` -- 2026 basket oncology additions, exceptions committee process, HMO supplementary-insurance comparison.
+- `references/cancer-type-equity-rights.md` -- Per-cancer-type entitlements (breast, colorectal, hematological, head-and-neck, pediatric, hereditary, lung, GU, gynecologic), worked examples, and cancer-type-to-NGO routing table.
+- `references/exceptions-committee-precedents-and-appeals.md` -- HMO exceptions-committee escalation ladder (internal appeals, MOH Public Complaints Commissioner, Regional Labor Court), חב"ר 5942-09-12 doctrine, and package-assembly guidance.
+- `references/experimental-and-off-label-treatments.md` -- Form 29c, טיפול חמלה, off-label, clinical trials, treatment-abroad, and the decision tree for picking the right pathway.
+- `references/sherum-committee-preparation.md` -- ADL-to-side-effect mapping by treatment type, "summoned vs self-requested" framing, document checklist for the שר"מ committee package.
 - `references/ngos-and-support-services.md` -- Verified list of cancer NGOs in Israel with Hebrew names, services, and contact channels.
 
 ## Recommended MCP Servers

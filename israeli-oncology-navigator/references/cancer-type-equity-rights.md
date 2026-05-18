@@ -43,15 +43,15 @@ The HMO funds dental treatment for cancer patients with tier-specific rules:
 Cancer patients requiring certain surgeries are entitled to have surgery within a defined maximum wait period from the decision-to-operate date.
 
 **If the HMO cannot meet the timeline:**
-1. Patient contacts the HMO's **Arrangements Center (מוקד הסדרים)** — each HMO operates one
+1. Patient contacts the HMO's **Arrangements Center (מוקד הסדרים)** -- each HMO operates one
 2. The Center has **24 hours** to find an earlier date at any covered facility
-3. If still unsuccessful, the Center must issue **Form 17 (התחייבות)** — a commitment letter the patient can present at any authorized facility allowed to perform the procedure, at no additional cost
+3. If still unsuccessful, the Center must issue **Form 17 (התחייבות)** -- a commitment letter the patient can present at any authorized facility allowed to perform the procedure, at no additional cost
 
 **Practical use:** the Form 17 mechanism is most often invoked for time-sensitive cancer surgeries where the home HMO's hospital has a backlog. It enables surgery at a competitor HMO's facility or a private hospital with the home HMO paying.
 
 **Source:** Kolzchut, "חולי סרטן" (EN page).
 
-## 4. Hereditary cancer (BRCA, Lynch, Li-Fraumeni, FAP) — all syndromes covered
+## 4. Hereditary cancer (BRCA, Lynch, Li-Fraumeni, FAP) -- all syndromes covered
 
 The basket covers genetic testing for cancer patients diagnosed with cancer **and** for first-degree relatives of known carriers. This applies across the full range of recognized hereditary cancer syndromes:
 
@@ -70,7 +70,7 @@ Positive carriers are entitled to **structured high-risk surveillance**:
 - Lynch: colonoscopy every 1-2 years from age 20-25
 - FAP: colonoscopy/sigmoidoscopy from age 10-12
 
-**For non-breast hereditary cancers,** Bracha (עמותת ברכה, Guidestar 580508075) provides peer support — though their main focus is BRCA. For other syndromes, surveillance programs are run through the genetic clinics at major hospitals (Sheba, Hadassah, Ichilov, Rambam).
+**For non-breast hereditary cancers,** Bracha (עמותת ברכה, Guidestar 580508075) provides peer support -- though their main focus is BRCA. For other syndromes, surveillance programs are run through the genetic clinics at major hospitals (Sheba, Hadassah, Ichilov, Rambam).
 
 **Source:** Kolzchut "בדיקות גנטיות"; ICA BRCA section (https://www.cancer.org.il/subcategories/brca/).
 
@@ -91,9 +91,9 @@ Eligibility for the home option is regimen-specific. Ask the treating oncologist
 
 **Source:** Kolzchut Rights Guide for Chemotherapy Patients; Israeli Cancer Association.
 
-## 6. Medical cannabis (post-April 2024 reform — prescription only)
+## 6. Medical cannabis (post-April 2024 reform -- prescription only)
 
-As of 1 April 2024, the medical cannabis pathway changed. **Cancer patients no longer need a license** — only a **prescription from a certified physician**.
+As of 1 April 2024, the medical cannabis pathway changed. **Cancer patients no longer need a license** -- only a **prescription from a certified physician**.
 
 **Eligibility:**
 - Patients in active oncological treatment (chemotherapy, immunotherapy, radiation)
@@ -105,7 +105,7 @@ As of 1 April 2024, the medical cannabis pathway changed. **Cancer patients no l
 2. If approved, the physician issues a prescription in the same visit (no MOH license process for cancer patients post-reform)
 3. Patient buys at any certified pharmacy
 
-**Costs:** annual prescription cost ~₪186. The older license-based process (~₪372/year) still applies to non-cancer indications and edge cases.
+**Costs:** fixed annual prescription fee of ₪180 under the post-April-2024 reform. The older license-based process (~₪372/year) still applies to non-cancer indications and edge cases.
 
 **Source:** gov.il + ICA (cancer.org.il/articles/13264) + Kolzchut.
 
@@ -150,7 +150,7 @@ These do not require employer pre-approval beyond standard sick-leave procedures
 
 The Israeli Cancer Association runs a national volunteer-driver program for cancer patients traveling to chemo/radiation appointments. Contact: oncology social worker or ICA Telemeda (1-800-599-995).
 
-**NOT:** Road to Recovery (theroadtorecovery.org.il) — that organization's mission is transporting Palestinian patients from West Bank/Gaza checkpoints to Israeli hospitals, NOT a generic Israeli cancer-patient driver pool.
+**NOT:** Road to Recovery (theroadtorecovery.org.il) -- that organization's mission is transporting Palestinian patients from West Bank/Gaza checkpoints to Israeli hospitals, NOT a generic Israeli cancer-patient driver pool.
 
 ## 11. NGO routing by cancer type
 
@@ -186,7 +186,7 @@ The Israeli Cancer Association runs a national volunteer-driver program for canc
 
 ### Example: Head and neck cancer starting radiation
 1. Hospital oncology social worker first
-2. Dental treatment funding BEFORE radiation begins (CRITICAL — head/neck patients have no time limit per 2013 basket update; pre-radiation dental work prevents osteoradionecrosis)
+2. Dental treatment funding BEFORE radiation begins (CRITICAL -- head/neck patients have no time limit per 2013 basket update; pre-radiation dental work prevents osteoradionecrosis)
 3. General disability + שר"מ paper track; head/neck radiation often justifies a 112% committee request (mucositis prevents eating, neck fibrosis affects mobility, profound fatigue)
 4. Voice + swallowing therapy basket-covered post-radiation
 5. Medical cannabis for radiation pain and mucositis-related appetite/sleep issues -- prescription only post-April 2024
