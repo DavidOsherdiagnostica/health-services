@@ -19,13 +19,16 @@ Israel has dedicated emergency numbers. Provide the correct number based on the 
 | 101 | MDA (Magen David Adom) | מגן דוד אדום | Medical emergencies, ambulance |
 | 100 | Israel Police | משטרת ישראל | Crime, security threats, accidents |
 | 102 | Fire and Rescue | כיבוי אש והצלה | Fires, hazardous materials, rescues |
+| 104 | Home Front Command | פיקוד העורף | Wartime guidance, shelter info, aerial threats (NOT a medical line) |
+| 105 | Child Online Protection | מטה הגנה על ילדים ברשת | Online harm to minors: extortion, sexual abuse, suicide threats |
+| 118 | Welfare and Social Services | מוקד הרווחה | Domestic violence, at-risk children/elderly, social distress (24/7) |
 | 112 | Unified Emergency | מספר חירום אחיד | Works from any phone, routes to correct service |
 
 Key facts about MDA:
 - National emergency medical service, operating since 1950
 - Over 200 stations across Israel with over 2,000 ambulances
-- Average response time: 8.3 minutes nationwide
-- Staffed by over 30,000 volunteers and thousands of professional staff (approximately 39,000 total)
+- Average response time: around 8 minutes nationwide
+- Approximately 39,000 volunteers, employees, and national service personnel combined (as of 2025-2026 data)
 - Supplies 100% of IDF blood needs through MDA Blood Services
 
 ### Step 2: When to Call MDA vs Visit Terem vs Go to ER
@@ -74,11 +77,12 @@ When arriving at a hospital ER (chadar miyun, חדר מיון), expect the follo
 | Examination | Doctor examines, may order tests | 15-60 minutes |
 | Treatment/Discharge | Treatment given, discharge or admission decision | Varies |
 
-Cost information:
-- ER copay (ishtalmut): 1,110 NIS (for self-referral without a doctor's referral, per Ministry of Health pricing)
-- Copay is waived if the patient is admitted to the hospital
-- Copay is waived if referred by MDA ambulance
-- Children under 18 and pregnant women may have reduced or waived copays depending on kupat cholim
+Cost information (as of 2026, per Ministry of Health tariff):
+- ER copay (hishtatfut atzmit): 1,199 NIS for self-referral during 06:00 to 23:00 without a doctor's referral or qualifying medical reason
+- Copay is waived entirely if the patient is admitted to the hospital
+- Copay is waived (or reduced to the ER fee only) if referred by MDA when the call is marked as a medical emergency
+- Many medical conditions trigger a full exemption: fractures and dislocations, severe burns, deep wounds needing stitches, head injuries in children under 2 or adults 70+, severe allergic reactions, asthma attacks, seizures, poisoning, animal/snake/scorpion bites, pregnancy emergencies (labor contractions, severe bleeding), psychiatric crises, work injuries (within 7 days with employer confirmation), traffic accidents (with police report), and violence victims
+- Children under 18 and pregnant women may receive additional reductions or waivers depending on kupat cholim
 
 Triage priority levels:
 1. Immediate (red): life-threatening, seen immediately
@@ -142,16 +146,17 @@ When a user reports suicidal ideation, panic attack, trauma flashback (especiall
 | Service | Hebrew Name | Phone | Hours | Notes |
 |---------|-------------|-------|-------|-------|
 | ERAN | ער"ן (עזרה ראשונה נפשית) | 1201 (in Israel) / +972-76-884-4400 (abroad) | 24/7 | Hebrew, Arabic, Russian, English. Free, anonymous, by phone or online chat. |
-| NATAL | נט"ל | 1-800-363-363 | 24/7 | Trauma and resilience: war, terror, October 7th and Iron Swords-related distress. Free. |
-| SAHAR | סה"ר | (chat only, no phone) | 24/7 Hebrew, partial Arabic | Israel's only text-based mental-health helpline. Live chat at sahar.org.il and WhatsApp. |
+| NATAL | נט"ל | *3362 (current shortcode) | 24/7 | Trauma and resilience: war, terror, October 7th and Iron Swords-related distress. Free. |
+| SAHAR | סה"ר | (chat only, no phone) | Sun-Thu 16:00-03:00, Fri/Sat/holiday eve 18:00-00:00 | Text-based emotional support in Hebrew and Arabic. Live chat at sahar.org.il and WhatsApp. NOT 24/7. |
 | MoH Mental Health First Aid | קווי סיוע נפשי ראשוני | Listed on health.gov.il | Varies | Ministry of Health-curated list of regional first-aid centers. |
 | Police suicide rescue | משטרה | 100 | 24/7 | When a person is actively attempting suicide or in immediate physical danger. |
 
 When to call which:
 - Active attempt or imminent danger: 100 (police) and 101 (MDA) together
-- Suicidal ideation, panic, anxiety, loneliness: ERAN 1201 or SAHAR chat
-- Combat / terror / October 7th trauma, PTSD flashbacks: NATAL 1-800-363-363
+- Suicidal ideation, panic, anxiety, loneliness: ERAN 1201 (24/7) or SAHAR chat during operating hours
+- Combat, terror, October 7th trauma, PTSD flashbacks: NATAL *3362 (24/7)
 - Child or adolescent in distress: ERAN 1201 (handles all ages)
+- Online harm to a minor (cyberbullying, sextortion, online suicide threats): 105 (Child Online Protection Bureau)
 
 ### Step 8: Wartime Emergencies (Iron Swords Era)
 
@@ -159,12 +164,12 @@ Since October 7, 2023, Israel has been in an active conflict period. Emergency b
 
 | Situation | Action |
 |-----------|--------|
-| Red-alert siren (azaka, אזעקה) | Enter the nearest mamad / miklat / stairwell within the time window for your region (15 sec south, 90 sec center, 3 min Eilat). Wait 10 minutes after the siren stops before leaving. |
+| Red-alert siren (azaka, אזעקה) | Enter the nearest mamad / miklat / stairwell within the time window for your region. Israel is divided into around 1,700 alert zones with windows ranging from immediate to 3 minutes (Gaza Envelope: 15 sec, most central areas: 90 sec, Arava and Eilat: up to 3 min). Stay in the protected space for 10 minutes after the siren stops before leaving. Look up your specific zone at oref.org.il. |
 | No shelter available | Lie flat on the ground, cover head with hands, stay away from windows. |
 | Driving when siren sounds | Stop the car safely, exit, lie flat next to the vehicle (not under it) or behind a concrete barrier. |
 | Suspected missile/rocket impact | Call 100 (police) and 101 (MDA). Do not approach unexploded ordnance. |
 | Aerial intrusion (drone, infiltration) | Follow Pikud Haoref (Home Front Command) instructions on the official app or 104 hotline. |
-| Acute stress reaction after siren | Call ERAN 1201 or NATAL 1-800-363-363. Children especially benefit from grounding and reassurance; NATAL has dedicated parent guidance. |
+| Acute stress reaction after siren | Call ERAN 1201 or NATAL *3362. Children especially benefit from grounding and reassurance. NATAL has dedicated parent guidance. |
 
 Key tools:
 - **Home Front Command app** ("פיקוד העורף" / "Pikud HaOref"): real-time alerts, shelter guidance, regional countdown timers. Available on iOS and Android.
@@ -200,7 +205,7 @@ Actions:
 2. Tell the dispatcher your exact location (street name, landmark, or building)
 3. Check if the person is breathing; the dispatcher will guide you through CPR if needed
 4. Do not move the person unless they are in immediate danger (fire, traffic)
-5. Stay on the line until the ambulance arrives (average response: 8.3 minutes)
+5. Stay on the line until the ambulance arrives (average response is around 8 minutes nationwide)
 
 Result: MDA dispatches the nearest ambulance. If in a public area, nearby defibrillators (AED) may be available (ask the dispatcher).
 
@@ -222,7 +227,7 @@ Actions:
 1. If the bone is not protruding and bleeding is controlled, go to Terem or a hospital ER
 2. In Tel Aviv, Ichilov (Sourasky Medical Center) is centrally located
 3. Bring your passport and travel insurance documents
-4. ER copay is 1,110 NIS (for self-referral); travel insurance should cover this
+4. ER copay is 1,199 NIS (for self-referral); travel insurance should cover this
 5. Hospitals are required to treat you regardless of insurance status
 
 Result: X-ray and treatment at Terem or the hospital. Non-residents may be billed at higher rates, so having travel insurance is important.
@@ -265,7 +270,9 @@ Result: MDA dispatches a Mobile Intensive Care Unit (MICU) staffed by paramedics
 | Poison Control (Rambam) | https://www.rambam.org.il/en/patient_info/contact_us/ | Poison hotline: 04-7771900 |
 | Dam.org.il (Blood Donors) | https://www.dam.org.il/en/qa/ | Blood donation FAQ and eligibility details |
 | ERAN Emotional First Aid | https://en.eran.org.il/ | 24/7 mental-health hotline 1201, multilingual |
-| NATAL (Trauma) | https://www.natal.org.il/en/ | War and terror trauma support, 1-800-363-363 |
+| NATAL (Trauma) | https://www.natal.org.il/en/ | War and terror trauma support, hotline *3362 (24/7) |
+| 105 Child Online Protection | https://www.gov.il/en/departments/units/105_call_center | National hotline for online harm to minors |
+| Welfare 118 Hotline | https://www.gov.il/he/departments/general/molsa-118 | 24/7 welfare and social services, all languages |
 | SAHAR (Online chat) | https://sahar.org.il/en/ | Text-based emotional support, 24/7 Hebrew chat |
 | Pikud Haoref (Home Front Command) | https://www.oref.org.il/eng | Red-alert app, shelter rules, 104 hotline |
 | MoH Mental Health Crisis | https://me.health.gov.il/en/mental-health/therapy-and-rehabilitation/crisis-support/first-aid/ | Curated first-aid hotlines and centers |
@@ -273,7 +280,9 @@ Result: MDA dispatches a Mobile Intensive Care Unit (MICU) staffed by paramedics
 ## Gotchas
 
 - Agents often default to US emergency numbers (911). Israel uses 101 (MDA), 100 (police), and 102 (fire). The unified number 112 works but is not the primary line.
-- ER copay amounts change periodically. Agents may cite outdated figures. As of 2026, the ER copay for self-referral is 1,110 NIS per Ministry of Health pricing, but verify with the specific hospital or kupat cholim.
+- ER copay amounts change periodically. Agents may cite outdated figures. As of 2026, the ER copay for self-referral during regular hours (06:00 to 23:00) is 1,199 NIS per Ministry of Health pricing, but verify with the specific hospital or kupat cholim.
+- NATAL changed its hotline to the shortcode *3362. The legacy 1-800-363-363 may still route but the official current number on natal.org.il is *3362.
+- SAHAR is NOT 24/7. It runs Sunday-Thursday 16:00 to 03:00 and Friday/Saturday/holiday evenings 18:00 to 00:00. Outside those windows, default to ERAN 1201 (which is genuinely 24/7).
 - Terem urgent care locations and hours change. The Jerusalem Romema branch is 24/7, but other branches have limited evening and weekend hours that agents may not reflect accurately.
 - Agents may confuse Israeli triage color codes with international ones. Israel uses a 4-level system (red, orange, yellow, green) that differs from some international 5-level systems.
 - Hospital names have multiple forms: agents may not connect "Ichilov" with "Sourasky Medical Center" or "Tel Aviv Medical Center," which are the same institution.
