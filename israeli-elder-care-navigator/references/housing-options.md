@@ -18,9 +18,11 @@
 
 ### Foreign caregiver (metapel/et zarim)
 - Live-in arrangement typical
-- Salary: minimum 6,444 NIS/month gross (plus room and board). Total employer cost including social benefits: approximately 7,500-8,500 NIS/month
-- Requires work permit from the Population and Immigration Authority
-- Gimlat siud hours reduced by 3 hours/week at Level 3 if employing a foreign worker
+- Salary (April 2026): minimum 6,443.85 NIS/month gross for 24/6 (257.75 NIS/day, 35.40 NIS/hour). Total employer cost including social benefits, pension and severance reserves: approximately 7,500-9,000 NIS/month
+- Room and board provided in kind (not in cash)
+- Requires work permit (heter ha'asaka) from the Population and Immigration Authority (PIBA)
+- Gimlat siud hours reduced at Levels 3-6 when employing a foreign worker (see Level table)
+- Cash benefit option amounts are lower when employing a foreign worker
 
 ### Private home care agency
 - Hourly caregivers for part-time needs
@@ -81,5 +83,7 @@
 | Bituach Leumi long-term care | *6050 |
 | Ministry of Health elder services | *5400 |
 | Eshel (JDC-Israel elder care) | 02-655-7400 |
-| Yad Sarah (equipment lending) | *6440 |
+| Yad Sarah (equipment lending + emergency button) | *6444 or 02-6444444 |
+| Ezer Mizion (volunteer medical transport) | 1-800-25-25-95 |
+| Holocaust Survivors' Rights Authority | *5105 |
 | Local social services | Through municipal website |

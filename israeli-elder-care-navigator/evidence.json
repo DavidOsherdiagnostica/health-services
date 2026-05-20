@@ -1,0 +1,160 @@
+{
+  "skill": "israeli-elder-care-navigator",
+  "version": "1.3.0",
+  "audit_date": "2026-05-20",
+  "claims": [
+    {
+      "claim": "Old-age pension for individual up to age 80 is 1,838 NIS in 2026",
+      "source_url": "https://www.btl.gov.il/About/news/Pages/hadasaidkonkitzva2026.aspx",
+      "source_quote": "קצבת אזרח ותיק ליחיד תעלה מ-1,795 ₪ ל-1,838",
+      "verified": true
+    },
+    {
+      "claim": "Age 80+ supplement is 103 NIS, bringing individual pension to 1,941 NIS",
+      "source_url": "https://www.btl.gov.il/About/news/Pages/hadasaidkonkitzva2026.aspx",
+      "source_quote": "Ages 80+: additional 103 ₪ supplement; 1,941 ₪",
+      "verified": true
+    },
+    {
+      "claim": "Couple base pension is 2,762 NIS",
+      "source_url": "https://www.btl.gov.il/About/news/Pages/hadasaidkonkitzva2026.aspx",
+      "source_quote": "Coupled (spouse not receiving): 2,762 ₪ (up from 2,697 ₪)",
+      "verified": true
+    },
+    {
+      "claim": "Child supplement on old-age pension is 581 NIS (per child, first 2 only)",
+      "source_url": "https://www.btl.gov.il/benefits/old_age/Pages/%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%20%D7%91%D7%A2%D7%93%20%D7%91%D7%9F%20%D7%96%D7%95%D7%92%20%D7%95%D7%99%D7%9C%D7%93%D7%99%D7%9D.aspx",
+      "source_quote": "סכום התוספת הבסיסית עבור ילד הוא 581 ש\"ח (החל ב- 01.01.2026)",
+      "verified": true
+    },
+    {
+      "claim": "Women's retirement age in 2026 is 63 (for those born 1962), phasing to 65 by 2032 for those born 1970+",
+      "source_url": "https://www.kolzchut.org.il/he/%D7%92%D7%99%D7%9C_%D7%A4%D7%A8%D7%99%D7%A9%D7%94_%D7%9E%D7%A2%D7%91%D7%95%D7%93%D7%94",
+      "source_quote": "January-December 1962 → 63; January-December 1970 onwards → 65",
+      "verified": true,
+      "fixes": "Previous version stated 63.5 incorrectly"
+    },
+    {
+      "claim": "Gimlat siud cash benefit at Level 1 (max) is 1,705 NIS from April 2026",
+      "source_url": "https://www.btl.gov.il/benefits/Long_Term_Care/Pages/money.aspx",
+      "source_quote": "Level 1: Maximum cash benefit: 1,705 NIS (from 01.04.2026)",
+      "verified": true
+    },
+    {
+      "claim": "Gimlat siud cash benefit at Level 6 (Israeli worker, max) is 7,440 NIS",
+      "source_url": "https://www.btl.gov.il/benefits/Long_Term_Care/Pages/money.aspx",
+      "source_quote": "Level 6 | 6,448 NIS (foreign) | 7,440 NIS (Israeli)",
+      "verified": true
+    },
+    {
+      "claim": "Gimlat siud half-benefit cash at Level 1 is 829 NIS; at Level 6 is 3,618 NIS",
+      "source_url": "https://www.kolzchut.org.il/he/%D7%9E%D7%91%D7%97%D7%9F_%D7%94%D7%9B%D7%A0%D7%A1%D7%95%D7%AA_%D7%9C%D7%A6%D7%95%D7%A8%D7%9A_%D7%A7%D7%91%D7%9C%D7%AA_%D7%92%D7%9E%D7%9C%D7%AA_%D7%A1%D7%99%D7%A2%D7%95%D7%93",
+      "source_quote": "אדם המקבל גמלת סיעוד בחצי שיעור...יקבל 829 ₪ ברמה 1, ו-3,618 ₪ ברמה 6",
+      "verified": true
+    },
+    {
+      "claim": "Hour-to-cash conversion rate from 01.04.2026: 310 NIS/hour for Level 1, 248 NIS/hour for Levels 2-6",
+      "source_url": "https://www.btl.gov.il/benefits/Long_Term_Care/Pages/money.aspx",
+      "source_quote": "שעת טיפול שווה ל-310 שקל (החל מ-01.04.2026), בעוד שעת טיפול ברמות מסוימות שווה ל-248 שקל",
+      "verified": true
+    },
+    {
+      "claim": "Income supplement (hashlamat hachnasa) threshold for individual in 2026 is 4,375 NIS, for couple 6,912 NIS",
+      "source_url": "https://www.btl.gov.il/benefits/old_age/hashHachZ/Pages/tnaiZakautTosefet.aspx",
+      "source_quote": "ההכנסה מקצבה המאפשרת תוספת השלמת הכנסה היא עד לסכום של 4,375 ש\"ח ליחיד, או עד 6,912 ש\"ח לזוג",
+      "verified": true
+    },
+    {
+      "claim": "Citizens aged 67+ ride all public transport free since April 25, 2025 via the Zahav-Kav Rav-Kav profile",
+      "source_url": "https://www.kolzchut.org.il/he/%D7%A4%D7%98%D7%95%D7%A8_%D7%9E%D7%AA%D7%A9%D7%9C%D7%95%D7%9D_%D7%A2%D7%9C_%D7%A0%D7%A1%D7%99%D7%A2%D7%94_%D7%91%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94_%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%AA_%D7%9C%D7%90%D7%96%D7%A8%D7%97%D7%99%D7%9D_%D7%95%D7%AA%D7%99%D7%A7%D7%99%D7%9D_%D7%9E%D7%92%D7%99%D7%9C_67",
+      "source_quote": "החל מ-25.04.2025 אזרחים ותיקים מגיל 67 ומעלה פטורים מתשלום על נסיעות בכל אמצעי התחבורה הציבורית",
+      "verified": true
+    },
+    {
+      "claim": "Women 62-67 get 50% discount on public transport",
+      "source_url": "https://www.kolzchut.org.il/he/%D7%94%D7%A0%D7%97%D7%94_%D7%91%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94_%D7%94%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%AA_%D7%9C%D7%A0%D7%A9%D7%99%D7%9D_%D7%9E%D7%92%D7%99%D7%9C_62",
+      "source_quote": "נשים מגיל 62 עד גיל 67 זכאיות ל-50% הנחה בתחבורה הציבורית",
+      "verified": true
+    },
+    {
+      "claim": "There is NO statutory age cap for joining kupat cholim group siudi insurance; subject to medical underwriting",
+      "source_url": "https://www.kolzchut.org.il/he/%D7%91%D7%99%D7%98%D7%95%D7%97_%D7%A1%D7%99%D7%A2%D7%95%D7%93%D7%99_%D7%A7%D7%91%D7%95%D7%A6%D7%AA%D7%99_%D7%90%D7%97%D7%99%D7%93_%D7%A9%D7%9C_%D7%A7%D7%95%D7%A4%D7%95%D7%AA_%D7%94%D7%97%D7%95%D7%9C%D7%99%D7%9D",
+      "source_quote": "ניתן להצטרף לביטוח הסיעודי של כל אחת מקופות החולים בכל גיל",
+      "verified": true,
+      "fixes": "Previous version incorrectly stated 'CANNOT enroll after age 65' as a hard rule. The 65 cap is not statutory; underwriting may decline older applicants"
+    },
+    {
+      "claim": "Enrolling in siudi insurance by age 49 guarantees maximum benefit",
+      "source_url": "https://www.maccabi4u.co.il/insurance-plans/nursing/join_nursing_inssurance/",
+      "source_quote": "כאשר מצטרפים עד גיל 49, בעת התרחשות של מקרה ביטוח יהיה זכאי המבוטח לתגמולי הביטוח המרביים",
+      "verified": true
+    },
+    {
+      "claim": "Since December 2023, new siudi joiners can only buy basic tier; expanded tier frozen until January 2028",
+      "source_url": "https://www.kolzchut.org.il/he/%D7%91%D7%99%D7%98%D7%95%D7%97_%D7%A1%D7%99%D7%A2%D7%95%D7%93%D7%99_%D7%A7%D7%91%D7%95%D7%A6%D7%AA%D7%99_%D7%90%D7%97%D7%99%D7%93_%D7%A9%D7%9C_%D7%A7%D7%95%D7%A4%D7%95%D7%AA_%D7%94%D7%97%D7%95%D7%9C%D7%99%D7%9D",
+      "source_quote": "As of December 5, 2023, new enrollees can only purchase the basic tier coverage. Expanded tier...frozen until January 1, 2028",
+      "verified": true
+    },
+    {
+      "claim": "Foreign caregiver minimum wage (April 2026) is 6,443.85 NIS/month gross for 24/6 work",
+      "source_url": "https://mate-siudi.org/pays-2/",
+      "source_quote": "החל מאפריל 2026, שכר המינימום לחודש, עבור משרה מלאה בענף הסיעוד (24/6) הינו 6,443.85 ₪ ברוטו",
+      "verified": true
+    },
+    {
+      "claim": "Yad Sarah national hotline is *6444",
+      "source_url": "https://yadsarah.org/contact-us/",
+      "source_quote": "*6444, 02-644-4444",
+      "verified": true,
+      "fixes": "Previous versions listed incorrect short codes (6440, 6447); correct code is 6444"
+    },
+    {
+      "claim": "Yad Sarah basic emergency button package starts at ~18 NIS/month",
+      "source_url": "https://yad-sarah.net/posts/%D7%9E%D7%95%D7%A7%D7%93-%D7%9E%D7%A6%D7%95%D7%A7%D7%94-%D7%9C%D7%90-%D7%91%D7%9B%D7%9C-%D7%94%D7%9E%D7%97%D7%99%D7%A8/",
+      "source_quote": "חבילה בסיסית עם מנוי חודשי של 18 שקלים בלבד",
+      "verified": true
+    },
+    {
+      "claim": "Hok HaCholeh HaNote LaMut (2005) lets adults file advance directives; valid 5 years, renewable, anyone 17+",
+      "source_url": "https://www.gov.il/he/service/dying-patient-request",
+      "source_quote": "Anyone from age 17 who is lucid, fully conscious, and competent to make decisions can give advance medical directives",
+      "verified": true
+    },
+    {
+      "claim": "Terminally ill patient defined as life expectancy under 6 months even with treatment",
+      "source_url": "https://www.kolzchut.org.il/en/Power_of_Attorney_to_Make_Decisions_Regarding_Medical_Treatment_of_the_Terminally_Ill",
+      "source_quote": "A terminally ill patient is one suffering from an incurable disease whose life expectancy, even with medical treatment, does not exceed six months",
+      "verified": true
+    },
+    {
+      "claim": "Claims Conference Hardship Fund annual grant for Holocaust survivors is €1,350/year",
+      "source_url": "https://www.kolzchut.org.il/he/%D7%AA%D7%A9%D7%9C%D7%95%D7%9D_%D7%A9%D7%A0%D7%AA%D7%99_%D7%9C%D7%A0%D7%99%D7%A6%D7%95%D7%9C%D7%99_%D7%A9%D7%95%D7%90%D7%94_%D7%A9%D7%94%D7%95%D7%9B%D7%A8%D7%95_%D7%9B%D7%96%D7%9B%D7%90%D7%99%D7%9D_%D7%9C%D7%9E%D7%A2%D7%A0%D7%A7_%D7%9E%D7%A7%D7%A8%D7%9F_%D7%94%D7%A1%D7%99%D7%95%D7%A2_%D7%A9%D7%9C_%D7%95%D7%A2%D7%99%D7%93%D7%AA_%D7%94%D7%AA%D7%91%D7%99%D7%A2%D7%95%D7%AA",
+      "source_quote": "The payment amount for 2026 from the Claims Conference support fund is €1,350 per year",
+      "verified": true
+    },
+    {
+      "claim": "Claims Conference Article 2 Fund pays monthly pension (paid quarterly) to Holocaust survivors per German government criteria",
+      "source_url": "https://www.kolzchut.org.il/he/%D7%A7%D7%A6%D7%91%D7%94_%D7%9C%D7%A0%D7%99%D7%A6%D7%95%D7%9C%D7%99_%D7%A9%D7%95%D7%90%D7%94_%D7%9E%D7%A7%D7%A8%D7%9F_%D7%A1%D7%A2%D7%99%D7%A3_2_%D7%A9%D7%9C_%D7%95%D7%A2%D7%99%D7%93%D7%AA_%D7%94%D7%AA%D7%91%D7%99%D7%A2%D7%95%D7%AA",
+      "source_quote": "Monthly allowances paid by the Claims Conference directly, these are paid to Holocaust survivors once every three months",
+      "verified": true
+    },
+    {
+      "claim": "Bituach Leumi long-term care benefit has 6 levels with 5.5-30 hours/week (without foreign worker) or 5.5-26 hours/week (with foreign worker)",
+      "source_url": "https://www.btl.gov.il/benefits/Long_Term_Care/benefit_level/Pages/default.aspx",
+      "source_quote": "קיימות 6 רמות זכאות לקצבת סיעוד",
+      "verified": true
+    },
+    {
+      "claim": "Yipuy koach mitmashech must be filed with the Apotropus Haklali (General Custodian) to be valid",
+      "source_url": "https://www.gov.il/he/service/edit_and_deposit_continuous_power_of_attorney",
+      "source_quote": "ייפוי כוח מתמשך נכנס לתוקף רק לאחר שהופקד אצל האפוטרופוס הכללי",
+      "verified": true
+    },
+    {
+      "claim": "Bituach siudi joiners can switch between kupot cholim without underwriting, waiting period, or loss of rights",
+      "source_url": "https://www.kolzchut.org.il/he/%D7%91%D7%99%D7%98%D7%95%D7%97_%D7%A1%D7%99%D7%A2%D7%95%D7%93%D7%99_%D7%A7%D7%91%D7%95%D7%A6%D7%AA%D7%99_%D7%90%D7%97%D7%99%D7%93_%D7%A9%D7%9C_%D7%A7%D7%95%D7%A4%D7%95%D7%AA_%D7%94%D7%97%D7%95%D7%9C%D7%99%D7%9D",
+      "source_quote": "ניתן לעבור בין הקופות באופן חופשי, ללא חיתום, ללא תקופת אכשרה וללא אובדן זכויות",
+      "verified": true
+    }
+  ]
+}
