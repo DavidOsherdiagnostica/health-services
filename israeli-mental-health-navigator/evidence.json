@@ -1,0 +1,151 @@
+{
+  "schemaVersion": "1.0",
+  "skill": "israeli-mental-health-navigator",
+  "generated_at": "2026-05-20T00:00:00Z",
+  "claims": [
+    {
+      "claim_id": "reform-year-july-2015",
+      "claim": "Mental health reform entered into effect in July 2015, transferring services from Ministry of Health to kupot cholim.",
+      "source_url": "https://hw.haifa.ac.il/%D7%A8%D7%A4%D7%95%D7%A8%D7%9E%D7%94-%D7%91%D7%AA%D7%97%D7%95%D7%9D-%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA-%D7%94%D7%A0%D7%A4%D7%A9/",
+      "raw_snippet": "הרפורמה בבריאות הנפש נכנסה לתוקף ביולי 2015, ובמסגרתה הועברה האחריות למתן הטיפול ממשרד הבריאות לקופות החולים",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "mh-budget-increase-2025-2026",
+      "claim": "Government approved approximately 366M NIS for 2025 and 175M NIS for 2026 to expand mental health services via public hospitals to kupot cholim.",
+      "source_url": "https://publichealth.doctorsonly.co.il/2025/11/357456/",
+      "raw_snippet": "להגדיל את עלות סל שירותי הבריאות ב-366 מיליון שקלים ב-2025 וב-175 מיליון שקלים נוספים ב-2026 לטובת שיפור שירותי בריאות הנפש",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "mh-kupot-budget-jump",
+      "claim": "Kupat cholim mental health budgets jumped from approximately 347M NIS in 2024 to approximately 591M NIS in 2025.",
+      "source_url": "https://www.ynet.co.il/health/article/s12gyxgdzg",
+      "raw_snippet": "תקציב בריאות הנפש זינק מ-347 מיליון ב-2024 ל-591 מיליון ב-2025",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "eran-1201-whatsapp",
+      "claim": "ERAN hotline 1201 (also WhatsApp 052-845-1201); phone 24/7; chat/WhatsApp/SMS 08:00-02:00 daily.",
+      "source_url": "https://www.eran.org.il/online-emotional-help/",
+      "raw_snippet": "ניתן לדבר עם מתנדבי ער\"ן בקו החם 1201, בוואטסאפ 052-8451201... שעות פעילות הצ'אט, וואטסאפ ו-SMS הן בין 08:00 ל-02:00, 365 יום בשנה",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md", "references/crisis-hotlines-directory.md"]
+    },
+    {
+      "claim_id": "natal-3362",
+      "claim": "Natal hotline *3362 available 24/7; chat Sun-Thu 16:00-24:00.",
+      "source_url": "https://www.natal.org.il/%D7%A7%D7%95-%D7%94%D7%A1%D7%99%D7%95%D7%A2-%D7%A9%D7%9C-%D7%A0%D7%98%D7%9C/",
+      "raw_snippet": "נט\"ל מספקת תמיכה 24/7 בטלפון *3362 או בצ'אט בימים ראשון-חמישי בין השעות 16:00-24:00",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md", "references/crisis-hotlines-directory.md"]
+    },
+    {
+      "claim_id": "sahar-whatsapp",
+      "claim": "Sahar 24/7 emotional support via WhatsApp 055-957-1399 and anonymous chat at sahar.org.il.",
+      "source_url": "https://sahar.org.il/help/",
+      "raw_snippet": "שירות בעברית זמין 24/7 בוואטסאפ - 0559571399 ובצ'אט אנונימי דרך https://sahar.org.il",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "sal-2026-auvelity-riagility",
+      "claim": "Sal briut 2026 added two psychiatric medications for adults with major depressive disorder: Auvelity (fast-acting NMDA-targeting) and Riagility (dopamine receptor agent for negative symptoms).",
+      "source_url": "https://www.maariv.co.il/news/health/article-1286878",
+      "raw_snippet": "Auvelity... פועלת על קולטני NMDA במוח... Riagility... פועלת על קולטני דופמין בצורה שונה מהשיטות המקובלות, ובעיקר יעילה בשיפור 'התסמינים השליליים'",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "form-7801-disability",
+      "claim": "Form 7801 is used to file a general disability claim (kitzbat nechut klalit) at Bituach Leumi, including for mental health disability.",
+      "source_url": "https://www.btl.gov.il/%D7%98%D7%A4%D7%A1%D7%99%D7%9D%20%D7%95%D7%90%D7%99%D7%A9%D7%95%D7%A8%D7%99%D7%9D/tfasimMkuvanim/Pages/nechutKlalit.aspx",
+      "raw_snippet": "תביעה לקצבת נכות כללית ובקשה להענקה מטעמי צדק (7801)",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "disability-eligibility-criteria",
+      "claim": "Disability eligibility requires medical disability of at least 60%, or at least 40% if multiple impairments and one is at least 25%.",
+      "source_url": "https://me.health.gov.il/mental-health/therapy-and-rehabilitation/social-benefits/mental-disability/",
+      "raw_snippet": "צריך שהוועדה תיקבע לך נכות רפואית בשיעור של 60% לפחות או 40 לפחות - אם יש לך כמה ליקויים רפואיים ועל ליקוי מסוים נקבעה לך נכות רפואית בשיעור של 25% לפחות",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "full-pension-2026",
+      "claim": "Full single disability pension as of January 1, 2026 is approximately 4,711 NIS per month for 75%+ loss of earning capacity, with monthly income threshold around 8,261 NIS.",
+      "source_url": "https://me.health.gov.il/mental-health/therapy-and-rehabilitation/social-benefits/mental-disability/",
+      "raw_snippet": "גובה הקצבה למי שדרגת אי הכושר שלה היא 75% או יותר (קצבת יחיד מלאה) היא 4,711 ש\"ח לחודש (נכון ליום 01/01/2026)... הכנסה כשכיר או כעצמאי נמוכה מ-8,261 ש\"ח, נכון לינואר 2026",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "form-571-iron-swords",
+      "claim": "Form 571 is the Iron Swords hostility-victim claim form at Bituach Leumi.",
+      "source_url": "https://www.btl.gov.il/%D7%98%D7%A4%D7%A1%D7%99%D7%9D%20%D7%95%D7%90%D7%99%D7%A9%D7%95%D7%A8%D7%99%D7%9D/tfassim-mekuvanim/Pages/Fill571.aspx",
+      "raw_snippet": "בקשה לתגמול לנפגע פעולות איבה ממלחמת חרבות ברזל (טופס 571)",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "mod-rehab-82400-31000",
+      "claim": "Ministry of Defense Rehabilitation Division reported in late 2025 handling approximately 82,400 wounded, of which approximately 31,000 are dealing with mental health and PTSD; about 1,500 new recognition requests per month; expected additional 10,000 by end of 2026.",
+      "source_url": "https://publichealth.doctorsonly.co.il/2025/12/360044/",
+      "raw_snippet": "אגף השיקום מטפל כיום ב-82,400 פצועים, מתוכם 31,000 שמתמודדים עם בעיות נפשיות ופוסט טראומה... כ-1,500 בקשות חדשות להכרה מוגשות מדי חודש, ובסוף 2026 צפויים להתקבל עוד 10,000 פצועים",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "mod-6500-iron-swords-hotline",
+      "claim": "MoD Rehabilitation operates a dedicated Iron Swords casualty hotline at *6500.",
+      "source_url": "https://shikum.mod.gov.il/about/harvot-barzel/moked-harvot",
+      "raw_snippet": "מוקד טלפוני 6500* לפצועי מלחמת התקומה (חרבות ברזל)",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "reservist-30-days-therapy",
+      "claim": "Reservists who served 30+ days under tzav 8 from January 1, 2025 are eligible for reimbursed psychological, emotional, and couples therapy for soldiers and their families (spouses and children up to age 14).",
+      "source_url": "https://www.btl.gov.il/HaravotBarzel1/KizbeotHB/MiloeimHB/Pages/MsrtimMiloeim.aspx",
+      "raw_snippet": "מי ששירת 30 ימים או יותר בצו 8 החל מה-1 בינואר 2025, זכאים להחזרים על טיפול פסיכולוגי, רגשי וזוגי למשרתי מילואים ובני משפחותיהם",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "resilience-centers-1.3m",
+      "claim": "Ministry of Health resilience centers serve approximately 1.3 million residents in the south, north, Judea and Samaria; a national resilience center was established after October 7.",
+      "source_url": "https://library.mevaker.gov.il/sites/DigitalLibrary/Documents/2025/Swords-of-Iron-1/2025-Swords-of-Iron-200-Taktzir.pdf",
+      "raw_snippet": "משרד הבריאות הפעיל מרכזי חוסן באזור הדרום, הצפון ויהודה ושומרון, אשר שירתו כ-1.3 מיליון אזרחים... רק עם פרוץ המלחמה הקים את המרכז הארצי",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "private-rates-2025-hebpsy",
+      "claim": "HebPsy 2025 survey: national average around 395 NIS per session (2% above 2024); psychologists 421±54, social workers 371±57, art therapists 366±49; Tel Aviv/Shfela premium ~40 NIS.",
+      "source_url": "https://www.hebpsy.net/page.asp?id=101",
+      "raw_snippet": "מגמת התייקרות כללית של כ-2% בתעריף הטיפול הנפשי - מממוצע של 386 ש\"ח ל-395 ש\"ח... פסיכולוגים: 421 ש\"ח ± 54 ש\"ח, אצל עובדים סוציאליים: 371 ש\"ח ± 57 ש\"ח, אצל מטפלים באמצעות אמנויות: 366 ש\"ח ± 49 ש\"ח... הפער... 40 ש\"ח",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "sick-pay-structure",
+      "claim": "Israeli Sick Pay Law: 1.5 sick days per month of employment (18 per year), max 90 accumulated days; day 1 unpaid, days 2-3 at 50%, day 4+ at 100% of salary.",
+      "source_url": "https://www.kolzchut.org.il/he/%D7%99%D7%9E%D7%99_%D7%9E%D7%97%D7%9C%D7%94",
+      "raw_snippet": "1.5 ימי מחלה לכל חודש עבודה מלא, עד למקסימום של 90 יום... יום העדרות ראשון אינו משולם, ימים שני ושלישי 50%, מהיום הרביעי - 100%",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "hostility-victims-ptsd-flexibility-late-2025",
+      "claim": "In late 2025, Bituach Leumi clarified that PTSD is not necessarily a time-limited condition, and additional treatment series for recognized hostility victims are approved with greater flexibility.",
+      "source_url": "https://www.btl.gov.il/benefits/Victims_of_Hostilities/Casualties_benefits/Pages/default.aspx",
+      "raw_snippet": "שינוי משמעותי בסוף 2025 הוא ההכרה שפוסט-טראומה (PTSD) אינה תופעה חולפת... מתבטא בהארכת טיפולים פסיכולוגיים, ויש כעת גמישות רבה יותר באישור סדרות טיפול נוספות לנפגעי טראומה",
+      "fetched_at": "2026-05-20T00:00:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    }
+  ]
+}
