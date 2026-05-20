@@ -7,10 +7,11 @@ description: >-
   tazonit", "red label food", "tiyug adom", "Mediterranean diet Israel", "kosher meal plan",
   "weekly menu", "what to eat", "balanced diet", or "tazona briut". Covers the Nutritional
   Rainbow food groups, front-of-package labeling thresholds (sugar, sodium, saturated fat),
-  kosher meal planning with meat-dairy separation, and building balanced meals from Israeli
-  supermarket products. Helps users understand which foods to eat at every meal, daily,
-  weekly, and which to minimize. Do NOT use for clinical nutrition therapy, eating disorder
-  treatment, sports performance nutrition, or medical dietary prescriptions.
+  kosher meal planning with meat-dairy separation, fasting-day guidance (Yom Kippur,
+  Ramadan, minor fasts), Israel-specific nutrient gaps (iodine, vitamin D, iron, B12 for
+  vegans), HMO dietitian entitlements (14 visits/year for diabetes), and GLP-1 weight-loss
+  medication context (Wegovy/Ozempic policy). Do NOT use for clinical nutrition therapy,
+  eating disorder treatment, sports performance nutrition, or medical dietary prescriptions.
 license: MIT
 ---
 
@@ -70,12 +71,20 @@ Since January 2021 (Phase 2), Israeli food products carry mandatory red warning 
 
 **Green label (tiyug yarok):** Voluntary marking for foods that meet positive nutritional criteria. Generally applies to minimally processed foods in their natural form, or with only added spices/herbs, and no food additives. A green label signals a food aligns with the Nutritional Rainbow.
 
+**Products exempt from front-of-package labeling (no red label even if over threshold):**
+- Fresh produce (unpackaged fruits, vegetables)
+- Fresh meat, fresh fish, fresh eggs (sold raw, single-ingredient)
+- Restaurant and prepared foods purchased at food-service establishments
+- Multipacks and small packages with front area smaller than 25 cm2
+- Specific exempted single-ingredient products: tea, coffee, yeast, food extracts
+- Note: exempt products still must show the standard nutrition facts panel on the back
+
 **How to use labels when shopping:**
 1. Products with zero red labels are preferred
 2. If choosing between similar products, pick the one with fewer red labels
 3. A product with a green label is a strong choice for daily consumption
 4. Red labels do not mean "forbidden" but signal that the product should not be a daily staple
-5. Small packages (front area < 25 cm2) are exempt from front-of-package labeling but still must show the standard nutrition facts panel on the back
+5. Phase 2 thresholds (January 2021) remain the current standard as of 2026. No Phase 3 has been announced by the Health Ministry.
 
 ### Step 4: Build a Weekly Meal Plan
 
@@ -151,8 +160,8 @@ Israeli nutrition planning often runs into religious fasts. Hydration and electr
 
 | Fast | Duration | Pre-fast meal (seuda mafseket / suhur) | Break-fast | Notes |
 |------|----------|---------------------------------------|-----------|-------|
-| Yom Kippur | ~25 hours, no food or water | Complex carbs (whole grains, legumes), low salt, plenty of water hours before. Avoid coffee taper for caffeine headaches. | Slow rehydration, light dairy or fruit before a heavier meal. | Pregnant, nursing, ill, children under 9: consult rabbi and doctor. Diabetics on insulin: fasting can be life-threatening; consult endocrinologist. |
-| Ramadan (suhur to iftar) | ~14-16 hours daily, no food or water during daylight | Suhur: oatmeal, eggs, dates, vegetables, plenty of water. | Iftar: dates and water first, then a balanced meal with protein, vegetables, complex carbs. | Avoid heavily salted or fried foods at iftar. Diabetics: consult kupat cholim before fasting. |
+| Yom Kippur | ~25 hours, no food or water | Complex carbs (whole grains, legumes), low salt, plenty of water hours before. Taper caffeine 1-2 days prior to avoid withdrawal headaches. | Slow rehydration, light dairy or fruit before a heavier meal. | Pregnant, nursing, ill, children under 9: consult rabbi and doctor. **Diabetics on insulin or sulfonylureas (e.g., glibenclamide, glimepiride) are at high risk of hypoglycemia and should generally not fast without an endocrinologist's plan.** |
+| Ramadan (suhur to iftar) | ~14-16 hours daily, no food or water during daylight | Suhur: oatmeal, eggs, dates, vegetables, plenty of water. | Iftar: dates and water first, then a balanced meal with protein, vegetables, complex carbs. | Avoid heavily salted or fried foods at iftar. **Diabetics on insulin or sulfonylureas should consult kupat cholim before fasting**: international guidance (IDF/DAR) classifies them as high risk and recommends pre-Ramadan medication adjustment and weekly monitoring. |
 | Tisha B'Av, 17 Tammuz, Tzom Gedalia, Asara b'Tevet, Ta'anit Esther | Sunrise to sunset (or full day for Tisha B'Av) | Light meal beforehand, hydrate well | Light food first | Pregnant and nursing women are exempt from minor fasts; check with a rabbi. |
 
 For diabetic, hypertensive, pregnant, or chronically ill users planning to fast, the standard advice is to consult their kupat cholim primary doctor or endocrinologist (covered by sal briut), not to provide a meal plan for the fast.
@@ -163,11 +172,34 @@ When users have specific health goals, route them to the appropriate kupat choli
 
 | Need | Where to refer |
 |------|---------------|
-| Weight management, BMI counseling | Kupat cholim dietitian (diyetanit) - included in sal briut for adults with BMI greater than or equal to 30 or a chronic condition |
-| Diabetes prevention or management | National Diabetes Program (Tochnit Sukeret Leumit) - kupat cholim-based, includes free dietitian visits and education |
+| Weight management, BMI counseling | Kupat cholim dietitian (diyetanit) - included in sal briut for adults with BMI greater than or equal to 30 or a chronic condition. Premium tiers (Clalit Platinum, Maccabi Sheli, Meuhedet Adif, Leumit Gold) add broader dietitian access. |
+| Diabetes prevention or management | National Diabetes Program (Tochnit Sukeret Leumit) - all four HMOs cover **14 dietitian visits per year** for people with diabetes via the National Diabetes Program, with a referral from the family doctor. Directly confirmed for Clalit, Maccabi, Leumit, and Meuhedet. No referral needed at Maccabi for diabetes, prediabetes, or gestational diabetes. |
 | Pediatric nutrition | Tipat Halav (well-baby clinics) for children under 6, school nurse for school-age |
 | Eating disorders | Specialized clinics at Sheba, Ichilov, Soroka (referral required) |
-| Pregnancy nutrition | OB-GYN and kupat cholim dietitian, free vitamins (folic acid, iron) included |
+| Pregnancy nutrition | OB-GYN and kupat cholim dietitian (covered without separate referral), free folic acid recommended pre-conception and through first trimester |
+| Weight-loss medication (GLP-1) | Coverage splits by age. **Adolescents 12-18** with severe obesity (BMI at or above the 95th percentile, weight 60 kg or more, plus a related comorbidity) are covered for Wegovy (semaglutide) under the 2026 sal briut update (Health Basket Committee decision, February 2026; ~4,500 teens eligible). **Adults remain out-of-pocket**: Wegovy is approved for chronic weight management but is not in the adult basket, costing ~NIS 600-1,300/month depending on dose; supplementary insurance covers about half for many policies. Ozempic is no longer prescribed off-label for weight loss (Health Ministry letter, April 2024). Saxenda (liraglutide) generics became available August 2025. Discuss eligibility with the family doctor or endocrinologist. |
+
+### Step 8.5: Address Israel-Specific Nutrient Gaps
+
+Israel's population has documented deficiencies that general meal planning should acknowledge:
+
+| Nutrient | Status in Israel | Practical Guidance |
+|----------|------------------|--------------------|
+| **Vitamin D** | High deficiency despite sunny climate (modest dress, sunscreen use, indoor lifestyle). Health Ministry recommends **800-1,000 IU/day** for adults of normal weight without sun exposure; up to 2,000 IU/day for adults with obesity. | Most adults benefit from a daily supplement, especially in winter. Dietary sources (fatty fish, fortified dairy, eggs) are not sufficient alone. |
+| **Iodine** | Persistent national deficiency. Salt in Israel is **not iodized by default** (heavy desalinated-water use depletes the dietary baseline). 2020-21 biomonitoring found median urinary iodine 64.5 µg/L in adults (WHO adequacy: 100+ µg/L). | Iodized salt exists but is a small share of the market and sold at a premium. Encourage iodized salt where available; in pregnancy/lactation, a 150 µg/day iodine supplement is supported by current expert opinion (discuss with kupat cholim). |
+| **Iron** | Iron-deficiency anemia is common in women of reproductive age (Mediterranean diet is plant-heavy and the Eastern-Mediterranean regional anemia prevalence in women is 27-70%). | Pair vitamin-C foods (peppers, citrus, tomatoes) with plant-iron sources (lentils, tahini, dark leafy greens). Tahini (raw, 100g) supplies ~9 mg iron and ~426 mg calcium. |
+| **B12 + iron for vegans** | Israel has one of the highest vegan rates in the world (~5% of the population, plus ~8-10% vegetarian). | A B12 supplement is required for vegans (no plant source is reliable). Use calcium-fortified plant milks. |
+| **Folic acid in pregnancy** | Recommended pre-conception through end of first trimester to reduce neural-tube defects. | A standard 400 µg/day supplement is routinely recommended; many OB-GYNs prescribe 5 mg/day for women at higher risk. |
+
+### Step 8.6: Celiac and Gluten-Free Labeling
+
+Celiac prevalence in Israel is approximately 1% (similar to global rates).
+
+- **Standard 1145** is the Israeli general food-labeling standard for prepackaged foods. Gluten-free claims must follow the Codex Alimentarius threshold of **less than 20 mg/kg gluten**.
+- Look for "ללא גלוטן" / "gluten-free" on the label.
+- Naturally gluten-free Israeli staples: rice, all legumes, all fresh produce, tahini, olive oil, plain dairy, eggs, fresh meat/fish/poultry, corn-based products.
+- Common gluten traps: soy sauce (most contain wheat), seitan, bourekas, malt-flavored breakfast cereals, beer, some commercial soups and sauces.
+- Kupat cholim dietitians are covered for celiac patients with a doctor referral.
 
 ### Step 9: Generate Output
 
@@ -235,6 +267,9 @@ Result: Complete Shabbat meal plan with kosher designations.
 | MoH Nutrition Department | https://www.gov.il/en/departments/units/nutrition_department | Dietary guidelines, recommended intakes by age and population |
 | MoH National Diabetes Program | https://www.gov.il/he/pages/diabetesnationalproject | National Diabetes Prevention & Treatment Program (Tochnit Sukeret Leumit), patient resources, kupot cholim integration |
 | Tipat Halav (well-baby clinics) | https://www.gov.il/en/service/family-health-clinics-tipat-chalav | Pediatric nutrition, infant feeding guidance |
+| Maccabi - Nutrition Eligibility | https://www.maccabi4u.co.il/eligibilites/3856/ | Maccabi dietitian referral coverage rules (diabetes, prediabetes, gestational diabetes need no referral) |
+| Clalit - Meeting a Dietitian | https://www.clalit.co.il/he/your_health/family/diabetes/Pages/meeting_a_dietitian.aspx | Clalit dietitian access for diabetes, 14 visits/year entitlement |
+| Knesset Health Committee - Iodine Deficiency | https://www.jpost.com/israel-news/article-860786 | Public discussion of salt-iodization policy gap in Israel |
 
 ## Gotchas
 
@@ -247,6 +282,10 @@ Result: Complete Shabbat meal plan with kosher designations.
 4. **Red meat limit is 300g per week of home-cooked meat, excluding processed meat.** The MoH recommendation is specifically about unprocessed red meat cooked at home. Processed meats (naknikiot, pastrami, hamburger patties from frozen) are categorized "below the rainbow" and the recommendation is to minimize them entirely, not count them toward the 300g.
 
 5. **Green labels are voluntary, red labels are mandatory.** A product without a green label is not necessarily unhealthy. Many whole foods (fresh produce, raw grains, legumes) don't carry any label because they're sold unpackaged or exempt. Only red labels are required by regulation.
+
+6. **Israeli table salt is not iodized by default.** Unlike many countries, Israel has no mandatory salt-iodization policy and most retail salt is non-iodized. Combined with heavy reliance on desalinated drinking water (which contains essentially no iodine), this leaves the population with documented iodine deficiency. When recommending salt reduction for cardiovascular reasons, also note that any salt the user still uses should preferably be iodized, and that pregnancy and lactation may warrant an iodine supplement (consult HMO).
+
+7. **Wegovy coverage splits by age, and Wegovy/Ozempic are not interchangeable.** As of the 2026 sal briut update (Health Basket Committee decision, February 2026), Wegovy (semaglutide) is covered for adolescents 12-18 with severe obesity (BMI at or above the 95th percentile, weight 60 kg or more, plus a related comorbidity), with ~4,500 teens estimated eligible. Adults are still excluded from the basket and pay out-of-pocket (~NIS 600-1,300/month; supplementary insurance often covers about half). Since the Health Ministry's April 2024 letter, Ozempic is no longer prescribed off-label for weight loss in Israel; the approved drug for chronic weight management is Wegovy. Users on GLP-1 medications experience reduced appetite and early satiety, so meal plans should emphasize protein and nutrient density per bite (not volume).
 
 ## Troubleshooting
 

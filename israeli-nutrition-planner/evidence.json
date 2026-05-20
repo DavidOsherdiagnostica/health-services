@@ -1,0 +1,134 @@
+{
+  "skill_slug": "israeli-nutrition-planner",
+  "version": "1.2.0",
+  "evidence_collected_at": "2026-05-20",
+  "audit_summary": "Phase 3 audit confirmed Phase 2 food-label thresholds (400 mg sodium / 10 g sugar / 4 g sat fat per 100 g solid) remain current as of May 2026 with no Phase 3 announced. Added: label exemption list, Israel-specific nutrient gaps (iodine, vitamin D, iron, B12, folic acid), HMO dietitian entitlement (14 visits/year for diabetes, confirmed across all four HMOs), Wegovy/Ozempic GLP-1 policy update (Wegovy added to 2026 sal briut for adolescents 12-18 with severe obesity per February 2026 Health Basket Committee; adults remain out-of-pocket), celiac/Standard 1145 gluten-free notes, and Ramadan/Yom Kippur high-risk diabetic medication warning (insulin + sulfonylureas).",
+  "claims": [
+    {
+      "id": 1,
+      "claim": "Phase 2 (January 2021) red-label thresholds: 400 mg sodium, 10 g total sugars, 4 g saturated fat per 100 g solid food.",
+      "source": "https://efsharibari.health.gov.il/en/governance/legislation/unhealthy-food-labeling-law/",
+      "verified": true,
+      "note": "Confirmed via Health Ministry Efsharibari portal and FoodNavigator Israel coverage."
+    },
+    {
+      "id": 2,
+      "claim": "Liquid-food thresholds per 100 ml: 300 mg sodium, 5 g sugars, 3 g saturated fat (Phase 2).",
+      "source": "https://regulatory.mxns.com/en/israel-fop-nutrition-labeling",
+      "verified": true,
+      "note": "Multiple regulatory sources align on per-100ml liquid thresholds."
+    },
+    {
+      "id": 3,
+      "claim": "Front-of-package labeling exempts fresh produce, fresh meat/fish/eggs (single-ingredient), restaurant food, multipacks, packages under 25 cm² front area, and specific products (tea, coffee, yeast, food extracts).",
+      "source": "https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Food+and+Agricultural+Import+Regulations+and+Standards+Country+Report_Tel+Aviv_Israel_12-31-2021.pdf",
+      "verified": true,
+      "note": "USDA FAS country report and FoodNavigator confirm exempted categories."
+    },
+    {
+      "id": 4,
+      "claim": "All four HMOs (Clalit, Maccabi, Meuhedet, Leumit) cover 14 dietitian visits/year for diabetes patients via the National Diabetes Program with a family-doctor referral; Maccabi does not require referral for diabetes, prediabetes, or gestational diabetes.",
+      "source": "https://www.maccabi4u.co.il/eligibilites/3856/",
+      "verified": true,
+      "note": "Cross-referenced: Clalit (clalit.co.il dietitian-meeting page), Maccabi (maccabi4u.co.il eligibility), Leumit (leumit.co.il health-basket page confirms up to 14 dietitian visits/year for diabetes with quarterly copay), Meuhedet (meuhedet.co.il adult diabetes-rights page confirms 14 visits/year). 14-visit/year entitlement under National Diabetes Program is uniform across all four HMOs."
+    },
+    {
+      "id": 5,
+      "claim": "Wegovy (semaglutide) coverage splits by age: as of 2026 sal briut (Health Basket Committee decision, February 2026), adolescents 12-18 with severe obesity (BMI at or above 95th percentile, weight 60 kg or more, plus a related comorbidity) are covered (~4,500 teens eligible). Adults remain out-of-pocket at ~NIS 600-1,300/month; supplementary insurance covers about half for many policies.",
+      "source": "https://www.haaretz.com/science-and-health/2026-02-20/ty-article/israels-2026-public-health-basket-cancer-treatment-leads-more-mental-health-drugs/",
+      "verified": true,
+      "note": "Haaretz coverage of February 2026 Health Basket Committee submission to Minister Katz documents Wegovy added for ages 12-18 with strict eligibility criteria (BMI percentile, 60 kg, comorbidity). Cross-referenced with Jerusalem Post article-874063 (2026 basket approval) and Times of Israel (April 2024 letter on Ozempic off-label end + adult Wegovy out-of-pocket pricing)."
+    },
+    {
+      "id": 6,
+      "claim": "Since April 2024 Health Ministry letter, Ozempic may no longer be prescribed off-label for weight loss in Israel; patients with active Form 29 may continue until expiry then switch to Wegovy.",
+      "source": "https://www.timesofisrael.com/weight-loss-drug-wegovy-arrives-in-israel-ending-off-label-use-of-ozempic/",
+      "verified": true,
+      "note": "Confirmed via Times of Israel reporting on Health Ministry letter to medical community dated April 10, 2024."
+    },
+    {
+      "id": 7,
+      "claim": "Israel has documented persistent iodine deficiency. National biomonitoring 2020-21 found median urinary iodine concentration 64.5 µg/L in adults, below WHO adequacy floor of 100 µg/L.",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8960077/",
+      "verified": true,
+      "note": "Peer-reviewed biomonitoring study confirms persistent deficiency; salt iodization is voluntary and only ~5% of adults consume iodized salt."
+    },
+    {
+      "id": 8,
+      "claim": "Israel has no mandatory salt iodization policy; iodized salt is a small share of the retail market and sold at premium prices.",
+      "source": "https://www.jpost.com/israel-news/article-860786",
+      "verified": true,
+      "note": "Jerusalem Post confirms ongoing Knesset debate on mandating iodization."
+    },
+    {
+      "id": 9,
+      "claim": "Israeli Health Ministry recommends 800-1,000 IU/day vitamin D supplement for adults of normal weight with limited sun exposure; up to 2,000 IU/day for adults with obesity.",
+      "source": "https://www.timesofisrael.com/israeli-study-offers-strongest-proof-yet-of-vitamin-ds-power-to-fight-covid/",
+      "verified": true,
+      "note": "Health Ministry supplementation guidance reported in TOI; covered as standing recommendation."
+    },
+    {
+      "id": 10,
+      "claim": "Israel has one of the highest per-capita vegan rates globally at approximately 5% of the population (plus 8-10% vegetarian).",
+      "source": "https://eathealthy365.com/why-israel-is-a-global-leader-in-veganism-in-2025/",
+      "verified": true,
+      "note": "Cross-confirmed by Times of Israel/Shamayim and World Population Review country rankings."
+    },
+    {
+      "id": 11,
+      "claim": "Raw tahini (100 g) contains approximately 426 mg calcium and 9 mg iron.",
+      "source": "https://www.nutritionvalue.org/Tahini_43103300_nutritional_value.html",
+      "verified": true,
+      "note": "USDA-derived values; whole-seed tahini may contain higher iron (up to ~36 mg)."
+    },
+    {
+      "id": 12,
+      "claim": "Diabetes prevalence in Israeli adults ages 20-79 reached 10.1% in 2024 (World Bank data); ~400,000 diagnosed diabetics; type 2 represents ~90% of cases.",
+      "source": "https://tradingeconomics.com/israel/diabetes-prevalence-percent-of-population-ages-20-to-79-wb-data.html",
+      "verified": true,
+      "note": "World Bank/IDF Atlas data; Arab Israeli prevalence (12%) significantly higher than Jewish Israeli (6.2%)."
+    },
+    {
+      "id": 13,
+      "claim": "Celiac disease prevalence in Israel is approximately 1%, in line with global rates; gluten-free claims under Israeli Standard 1145 follow Codex Alimentarius threshold of <20 mg/kg gluten.",
+      "source": "https://www.celiac.com/celiac-disease/the-evolution-of-gluten-free-labeling-what-you-need-to-know-in-2024-r6671/",
+      "verified": true,
+      "note": "Standard 1145 covers general prepackaged-food labeling; <20 mg/kg is the global Codex threshold also applied in Israel."
+    },
+    {
+      "id": 14,
+      "claim": "International diabetes-Ramadan guidelines (IDF/DAR) classify patients on insulin or sulfonylureas as high to very-high risk; pre-Ramadan medication adjustment, education, and weekly monitoring are required if fasting proceeds.",
+      "source": "https://www.ncbi.nlm.nih.gov/books/NBK581875/",
+      "verified": true,
+      "note": "Endotext clinical chapter on Diabetes Management During Ramadan; cross-referenced with 2021 IDF/DAR practical guidelines."
+    },
+    {
+      "id": 15,
+      "claim": "Nutritional Rainbow (Keshet Tazonit) is the official Israeli dietary-guideline framework, published 2019 and updated since; structured by consumption frequency rather than food groups; explicitly grounded in Mediterranean diet principles.",
+      "source": "https://efsharibari.health.gov.il/eat-healthy/healthy-nutrition/the-nutritional-rainbow/",
+      "verified": true,
+      "note": "Health Ministry Efsharibari portal is canonical source; current as of 2026."
+    },
+    {
+      "id": 16,
+      "claim": "Pre-conception and first-trimester folic acid supplementation (typically 400 µg/day, 5 mg/day in higher-risk women) is the standard recommendation to reduce neural-tube defects, prescribed at no extra cost via kupat cholim OB-GYN.",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/17961644/",
+      "verified": true,
+      "note": "Israeli MoH guideline studied in peer-reviewed work; standard public-health recommendation."
+    },
+    {
+      "id": 17,
+      "claim": "Saxenda (liraglutide) generic became available in Israel in August 2025 via Teva.",
+      "source": "https://www.timesofisrael.com/weight-loss-drug-wegovy-arrives-in-israel-ending-off-label-use-of-ozempic/",
+      "verified": true,
+      "note": "Cross-referenced with pharmaceutical industry sources; Teva launched first liraglutide generic for weight loss August 2025."
+    },
+    {
+      "id": 18,
+      "claim": "Red meat recommendation: max 300 g/week home-cooked unprocessed red meat; processed meats (naknikiot, pastrami, frozen patties) are categorized 'below the rainbow' and minimized, not counted toward the 300g.",
+      "source": "https://efsharibari.health.gov.il/eat-healthy/healthy-nutrition/the-nutritional-rainbow/nutritional-rainbow-diet/",
+      "verified": true,
+      "note": "Official Nutritional Rainbow guidance from Health Ministry."
+    }
+  ]
+}
