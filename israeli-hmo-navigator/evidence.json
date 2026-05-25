@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "1.0",
+  "skill": "israeli-hmo-navigator",
+  "generated_at": "2026-05-25T20:30:00Z",
+  "claims": [
+    {
+      "claim_id": "nhi-law-1995",
+      "claim": "Israel's National Health Insurance Law (Chok Bituach Briut Mamlachti) enacted 1995 mandates universal coverage through four HMOs",
+      "source_url": "https://www.btl.gov.il/benefits/Health_Insurance/Pages/default.aspx",
+      "raw_snippet": "חוק ביטוח בריאות ממלכתי 1995",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "hmo-memberships-2026",
+      "claim": "Approximate HMO memberships 2026: Clalit ~4.8M (52%), Maccabi ~2.6M (27%), Meuhedet ~1.3M (14%), Leumit ~1.0M (9%)",
+      "source_url": "https://www.btl.gov.il/About/yedion/Pages/yedion202507.aspx",
+      "raw_snippet": "Clalit 52%, Maccabi 27%, Meuhedet 14%, Leumit 9% (~4.8M, 2.6M, 1.3M, 1.0M)",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "hmo-switching-rules",
+      "claim": "HMO switching: up to twice per 12 months, 6 fixed effective dates per year (Jan 1, Mar 1, May 1, Jul 1, Sep 1, Nov 1), apply by 15th of preceding two months",
+      "source_url": "https://www.kolzchut.org.il/en/Switching_Health_Plans_(Kupot_Cholim",
+      "raw_snippet": "Switching Health Plans rules",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "supplementary-tier-names",
+      "claim": "Supplementary tier names: Clalit Mushlam / Mushlam Platinum; Maccabi Zahav (entry) / Sheli (premium); Meuhedet Adif / Adif C; Leumit Silver / Gold",
+      "source_url": "https://www.kolzchut.org.il/he/ביטוח_בריאות_משלים",
+      "raw_snippet": "Mushlam, Zahav, Sheli, Adif, Silver, Gold",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "sal-briut-2026-budget",
+      "claim": "Sal Briut (health basket) 2026 NIS 650M budget; priorities: cancer therapies, expanded mental health drug coverage, PGT for BRCA1/BRCA2 carriers",
+      "source_url": "https://www.health.gov.il",
+      "raw_snippet": "סל בריאות 2026, 650 מיליון ש\"ח, BRCA",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "myhealth-marpe-portal",
+      "claim": "MyHealth (Marpe) is the Israeli Ministry of Health national patient portal, a cross-HMO read-only health record viewer that complements but does not replace HMO apps",
+      "source_url": "https://www.health.gov.il/Subjects/Personal_information",
+      "raw_snippet": "MyHealth, מרפא",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "moh-ombudsman",
+      "claim": "Netziv Kvilanot HaTzibur (Ministry of Health Ombudsman) handles complaints not resolved by HMO patient advocate",
+      "source_url": "https://www.health.gov.il/Subjects/HealthSystem/Complaints",
+      "raw_snippet": "נציב קבילות הציבור",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "ref-kolzchut-switching",
+      "claim": "Kol Zchut HMO switching rules reference (EN and HE versions)",
+      "source_url": "https://www.kolzchut.org.il/en/Switching_Health_Plans_(Kupot_Cholim",
+      "raw_snippet": "Switching Health Plans",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "ref-kolzchut-switching-he",
+      "claim": "Kol Zchut HMO switching Hebrew reference",
+      "source_url": "https://www.kolzchut.org.il/he/מעבר_בין_קופות_חולים",
+      "raw_snippet": "מעבר בין קופות חולים",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL_HE.md"]
+    },
+    {
+      "claim_id": "copayments-2026",
+      "claim": "Standard HMO copayments (basic basket) approximate ranges 2026: primary care visit 0 ש\"ח / 0 NIS, specialist visit 20-30 ש\"ח / 30 NIS, ER 100-160 ש\"ח / 100 NIS / 160 NIS (waived if admitted), prescription generic 10-15 ש\"ח / 15 NIS, prescription brand 15-50 ש\"ח / 50 NIS, blood tests 0 ש\"ח, MRI/CT 0-50 ש\"ח / 50 NIS, physiotherapy 20-30 ש\"ח / 30 NIS, mental health session 0-30 ש\"ח / 30 NIS",
+      "source_url": "https://www.health.gov.il",
+      "raw_snippet": "השתתפות עצמית: 0 ש\"ח (רופא משפחה / בדיקות דם), 30 ש\"ח (מומחה / פיזיותרפיה / בריאות הנפש), 100 ש\"ח (מיון), 160 ש\"ח (מיון בקצה), 15 ש\"ח (תרופה גנרית), 50 ש\"ח (תרופה ייחודית / MRI/CT). Equivalent NIS values: 0 NIS, 15 NIS, 30 NIS, 50 NIS, 100 NIS, 160 NIS.",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "supplementary-pricing",
+      "claim": "Supplementary insurance monthly pricing 2026: Level 1 (basic upgrade) approximately 30-80 ש\"ח / 80 NIS per person scaling with age; Level 2 (premium) approximately 80-200 ש\"ח / 200 NIS per person scaling with age",
+      "source_url": "https://www.kolzchut.org.il/he/ביטוח_בריאות_משלים",
+      "raw_snippet": "ביטוח משלים: 30-80 ש\"ח רמה 1 (80 NIS), 80-200 ש\"ח רמה 2 (200 NIS) לאדם, משתנה לפי גיל",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "ref-btl-hmo-transfer",
+      "claim": "Bituach Leumi HMO transfer portal",
+      "source_url": "https://b2b.btl.gov.il/BTL.ILG.Payments/MaavarKupotCholimInfo.aspx",
+      "raw_snippet": "Maavar Kupot Cholim",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "ref-nbn-kupot",
+      "claim": "Nefesh B'Nefesh kupat cholim guide for olim",
+      "source_url": "https://www.nbn.org.il/life-in-israel/healthcare-in-israel/kupot-cholim/kupot-cholim/",
+      "raw_snippet": "Nefesh B'Nefesh kupot cholim",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "ref-moh-portal",
+      "claim": "Ministry of Health main portal",
+      "source_url": "https://www.health.gov.il",
+      "raw_snippet": "health.gov.il",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    },
+    {
+      "claim_id": "ref-yadlolim-basket",
+      "claim": "Yadlolim health basket reference",
+      "source_url": "https://www.yadlolim.org/healthcare/what-is-the-healthcare-basket",
+      "raw_snippet": "what is the healthcare basket",
+      "fetched_at": "2026-05-25T20:30:00Z",
+      "appears_in": ["SKILL.md", "SKILL_HE.md"]
+    }
+  ]
+}

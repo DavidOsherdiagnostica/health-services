@@ -77,7 +77,7 @@ The referral process (hafnaya) varies by HMO:
 | 5. Follow-up as needed | ma'akav | Results sent to primary care |
 
 **Wait times (Sal Briut):**
-The Ministry of Health requires each HMO to publish its own maximum wait time targets but has not set mandatory national limits. Typical published targets:
+Each HMO publishes its own maximum wait time targets. The Ministry of Health has been moving toward mandatory national limits in recent years (with formal guidelines under consultation), but as of mid-2026 there is still no single legally binding national cap that applies uniformly across all four kupot. Typical published targets:
 - Dermatologist (rofe or): ~30 days
 - Orthopedist (ortoped): ~30 days
 - Ophthalmologist (rofe einayim): ~30 days
@@ -85,7 +85,9 @@ The Ministry of Health requires each HMO to publish its own maximum wait time ta
 - Oncologist: ~14 days
 - Gastroenterologist: ~30 days
 
-Actual wait times vary by region and HMO. Check your HMO's website or app for current availability. If your wait exceeds the HMO's published target, you can file a complaint.
+Actual wait times vary by region and HMO. Check your HMO's website or app for current availability. If your wait exceeds the HMO's published target, file a complaint with the HMO's patient advocate (netziv pniyot hatzibur) and escalate to the Ministry of Health Ombudsman (Netziv Kvilanot HaTzibur) if unresolved.
+
+**MyHealth (Marpe) national patient portal:** Israel rolled out a national health information exchange under the Ministry of Health, accessible via the `MyHealth` (Marpe) app and the national patient portal. It complements (does not replace) each HMO's app and gives patients a cross-HMO view of records, prescriptions, and visit history. Useful when a patient switches kupot mid-treatment and needs records to be visible to both old and new providers.
 
 **With supplementary insurance:** Wait times typically 3-14 days for most specialties.
 
@@ -205,6 +207,8 @@ When these MCPs are available, use them for real-time healthcare data instead of
 | Bituach Leumi - HMO Transfer | https://b2b.btl.gov.il/BTL.ILG.Payments/MaavarKupotCholimInfo.aspx | Online HMO switch application portal |
 | Nefesh B'Nefesh - Kupot Cholim | https://www.nbn.org.il/life-in-israel/healthcare-in-israel/kupot-cholim/kupot-cholim/ | HMO comparison for olim, language services |
 | Ministry of Health - Wait Times | https://www.health.gov.il | Published specialist wait time data by region |
+| MyHealth (Marpe) national portal | https://www.health.gov.il/Subjects/Personal_information | National patient portal, cross-HMO record viewer |
+| Health Ministry Ombudsman | https://www.health.gov.il/Subjects/HealthSystem/Complaints | Netziv Kvilanot HaTzibur, escalation path beyond HMO advocate |
 | Yadlolim - Health Basket | https://www.yadlolim.org/healthcare/what-is-the-healthcare-basket | Basket coverage details, copayment information |
 
 ## Gotchas
@@ -217,6 +221,9 @@ When these MCPs are available, use them for real-time healthcare data instead of
 - Adult dental care is not covered in the basic basket (only children up to 18). Agents trained on US-style health plans may assume dental is included.
 - The Ministry of Health has not set mandatory national maximum wait times for specialist appointments. Agents may claim specific mandatory limits exist. Each HMO publishes its own targets, which are not legally binding.
 - The 2026 health basket (approved early 2026, NIS 650M budget) prioritized cancer therapies, expanded mental health drug coverage, and added PGT for BRCA1/BRCA2 carriers. Agents working from older snapshots may miss these additions.
+- HMO membership numbers shift annually with Bituach Leumi's enrollment cycles. Use approximate figures and direct users to the Bituach Leumi annual report (latest publication) for current totals. Clalit remains the largest by far (~52%), but Maccabi has been narrowing the gap in Tel Aviv and central Israel.
+- The Iron Swords war (since October 2023) has shifted HMO operations: mental-health services demand surged, reservist family priority lanes were introduced at all four kupot, and supplementary insurance claims for stress-related care reached record highs in 2024-2025. Patients can ask their HMO about post-October-2023 reservist family entitlements.
+- A separate `MyHealth` (Marpe) national portal exists alongside the per-HMO apps; some users assume it replaces the HMO app, which it does NOT. Routine actions (appointments, prescriptions, lab requests) still happen through the HMO's own app; MyHealth is a cross-provider read-only health record viewer.
 
 ## Troubleshooting
 
