@@ -11,7 +11,7 @@ Israel was one of the first countries in the world to legalize and regulate surr
 | Aspect | Details |
 |--------|---------|
 | Original law | Enacted 1996 |
-| Key amendments | 2014 (expanded to single women), 2022 (expanded to single men and same-sex male couples) |
+| Key amendments | An amendment extended eligibility to single women, and a reform effective 11 January 2022 (following High Court rulings) expanded eligibility to single men and same-sex couples |
 | Governing body | Ministry of Health, through the Approval Committee for Surrogacy Agreements |
 | Type of surrogacy | Gestational surrogacy only (the surrogate has no genetic connection to the child) |
 | Traditional surrogacy | Not permitted under Israeli law |

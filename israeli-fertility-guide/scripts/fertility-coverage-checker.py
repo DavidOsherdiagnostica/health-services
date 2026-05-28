@@ -106,42 +106,36 @@ def check_coverage(age, children, status, insurance):
             "cost": "Minimal copays",
         })
 
-    # Egg freezing
-    if status == "single" and 30 <= age <= 41:
+    # Elective (social, non-medical) egg freezing.
+    # NOT in the basic health basket at any age. Several kupot subsidize it
+    # through SHABAN (Clalit, Maccabi, Meuhedet); Leumit does not.
+    if 30 <= age <= 41:
         treatments.append({
-            "name": "Egg Freezing (Elective)",
+            "name": "Egg Freezing (Elective / Social)",
             "hebrew": "הקפאת ביציות (אלקטיבית)",
-            "covered": True,
-            "source": "Health Basket",
+            "covered": "Partial" if insurance == "shaban" else False,
+            "source": "SHABAN only (NOT basic basket)",
             "details": (
-                f"As a single woman age {age}, you are eligible for funded "
-                "elective egg freezing (up to 4 cycles). Annual storage fees "
-                "(1,000-2,000 NIS/year) are out-of-pocket."
+                "Elective egg freezing for healthy women is NOT funded by the basic "
+                "health basket at any age. As of 2025-2026 the SHABAN plans of Clalit, "
+                "Maccabi, and Meuhedet subsidize it (roughly ages 30-38, about 3,500 NIS "
+                "copay per cycle); Leumit does not. Without a subsidizing SHABAN plan it is "
+                "fully out-of-pocket. Annual storage fees are extra."
             ),
-            "cost": "Cycles covered; storage: 1,000-2,000 NIS/year",
+            "cost": "~3,500 NIS/cycle copay with subsidizing SHABAN; otherwise 10,000-15,000 NIS/cycle + 1,000-2,000 NIS/year storage",
         })
-    elif status == "single" and age < 30:
+    else:
         treatments.append({
-            "name": "Egg Freezing (Elective)",
+            "name": "Egg Freezing (Elective / Social)",
             "hebrew": "הקפאת ביציות (אלקטיבית)",
             "covered": False,
             "source": "N/A",
             "details": (
-                f"Elective egg freezing is covered for single women ages 30-41. "
-                f"At age {age}, you are not yet eligible. You will become eligible at age 30."
-            ),
-            "cost": "10,000-15,000 NIS per cycle if done privately before age 30",
-        })
-    elif status == "single" and age > 41:
-        treatments.append({
-            "name": "Egg Freezing (Elective)",
-            "hebrew": "הקפאת ביציות (אלקטיבית)",
-            "covered": False,
-            "source": "N/A",
-            "details": (
-                f"Elective egg freezing coverage is for ages 30-41. "
-                f"At age {age}, the funded window has passed. "
-                "Medical egg freezing (for health reasons) may still be covered."
+                f"Elective egg freezing is never funded by the basic basket. SHABAN "
+                f"subsidies (Clalit/Maccabi/Meuhedet) generally apply around ages 30-38; "
+                f"at age {age} you are likely outside the subsidized window, so expect "
+                "full out-of-pocket cost. Medical egg freezing may still be covered if you "
+                "have a documented medical indication."
             ),
             "cost": "10,000-15,000 NIS per cycle (out-of-pocket)",
         })
@@ -153,9 +147,11 @@ def check_coverage(age, children, status, insurance):
         "covered": True,
         "source": "Health Basket",
         "details": (
-            "Egg freezing for medical reasons (cancer treatment, surgery, medical "
-            "conditions that threaten fertility) is covered regardless of age "
-            "or marital status."
+            "Egg freezing for a documented medical indication (cancer treatment before "
+            "chemo/radiation, premature ovarian insufficiency, etc.) is covered up to age 39. "
+            "Basket cap: 4 cycles or 20 eggs (up to 6 cycles or 40 eggs for specific "
+            "genetic indications such as fragile-X premutation carriers). "
+            "Storage fees may apply."
         ),
         "cost": "Covered; storage fees may apply",
     })

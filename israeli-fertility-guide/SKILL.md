@@ -34,7 +34,7 @@ Types of fertility treatments covered:
 | Egg freezing (medical reasons) | הקפאת ביציות (סיבות רפואיות) | Yes, up to age 39 (see Step 5) |
 | Egg freezing (elective) | הקפאת ביציות אלקטיבית | No, not in basic basket (see Step 5) |
 | Sperm donation | תרומת זרע | Yes (see Step 5) |
-| PGT for BRCA1/BRCA2 carriers | PGT לנשאיות BRCA | Yes (added in 2026 basket) |
+| PGT for BRCA1/BRCA2 and Lynch syndrome carriers | PGT לנשאיות BRCA / לינץ' | Yes (added in 2026 basket) |
 
 ### Step 2: Health Basket Coverage for Fertility
 
@@ -46,8 +46,8 @@ The health basket (sal briut, סל בריאות) defines what is covered under t
 | Live birth limit | Funding covers treatment until 2 live births from the current relationship |
 | Age limit for women | Up to age 45 (some treatments may have lower age limits) |
 | No cycle limit | There is no hard limit on the number of IVF cycles, only the 2-live-birth cap |
-| Single women | Eligible for the same coverage as couples |
-| Same-sex couples (women) | Eligible for IVF and sperm donation coverage |
+| Single women (single mother by choice, em yechidanit) | Eligible for the same IVF and sperm-donation coverage as couples; no partner is required for a woman's own 2-child entitlement |
+| Same-sex couples (women) | Eligible for IVF and sperm donation coverage. A March 2024 Supreme Court ruling requires the state to register both women as mothers on the birth certificate for children born via sperm donation (alongside a judicial parenthood order, tzav horut), without a lengthy adoption process |
 | Relationship change | If a woman starts a new relationship, the 2-live-birth count may reset (consult kupat cholim) |
 
 What the health basket covers for each IVF cycle:
@@ -63,7 +63,7 @@ What the health basket covers for each IVF cycle:
 | Embryo freezing (for future use) | Yes |
 | Frozen embryo transfer (FET) | Yes |
 
-The Health Basket Committee (vaadot sal briut) meets annually to evaluate new treatments and technologies for inclusion. The 2026 health basket (approved in early 2026 with a NIS 650M budget) added PGT (preimplantation genetic testing) coverage for women carrying BRCA1/BRCA2 mutations as part of their IVF cycle.
+The Health Basket Committee (vaadot sal briut) meets annually to evaluate new treatments and technologies for inclusion. The 2026 health basket (approved in early 2026 with a NIS 650M budget) added PGT (preimplantation genetic testing) coverage for women carrying high-cancer-risk mutations (BRCA1/BRCA2 and Lynch syndrome) as part of their IVF cycle.
 
 ### Step 3: The IVF Process Through Kupat Cholim
 
@@ -120,10 +120,10 @@ Israel has specific legal frameworks for advanced reproductive options.
 
 | Aspect | Details |
 |--------|---------|
-| Medical egg freezing | Covered by health basket up to age 39 for women at risk of early menopause, cancer patients before chemo/radiation, or other clear medical indications |
+| Medical egg freezing | Covered by health basket up to age 39 for women at risk of early menopause, cancer patients before chemo/radiation, people undergoing gender-affirming treatment, or other clear medical indications |
 | Elective egg freezing | NOT covered in the basic health basket. Out-of-pocket for healthy women ages 30-41 who want to preserve fertility for non-medical reasons |
-| Supplementary coverage | Meuhedet "Adif C" is currently the only kupat cholim supplementary plan that offers any non-medical egg freezing benefit; other kupot do not |
-| Cycle/egg cap (medical) | Up to 6 retrievals or until 25 eggs (ages 30-34) / 35 eggs (ages 35-39) are stored |
+| Supplementary coverage | As of 2025-2026 the SHABAN plans of Clalit (Mushlam Platinum), Maccabi, and Meuhedet subsidize elective egg freezing (roughly ages 30-38, around 3,500 NIS copay per cycle). Leumit is currently the only kupat cholim that does NOT subsidize elective freezing. Verify exact ages and copays with your kupat cholim, since these benefits changed recently |
+| Cycle/egg cap (medical, basket) | Standard medical indication: up to 4 retrieval cycles or 20 eggs, whichever comes first. A higher cap of up to 6 cycles or 40 eggs applies to specific genetic indications such as fragile-X premutation carriers (nasaiot pre-mutatzia le-X shavir). (The 25-35 egg figures sometimes quoted are private SHABAN limits, not the basic basket.) |
 | Storage costs | Annual storage fee applies (varies by clinic, approximately 1,000-2,000 NIS/year), and is typically NOT covered even when retrieval is funded |
 | Usage | Frozen eggs can be used for IVF when the woman is ready, subject to the 2-live-birth IVF cap and age 45 limit at thaw |
 
@@ -137,13 +137,24 @@ Israel has specific legal frameworks for advanced reproductive options.
 | Donor selection | Through licensed sperm banks (bank zera, בנק זרע) |
 | Anonymity | Donors are anonymous; limited non-identifying information provided |
 | Known donors | Not permitted under current regulations for most cases |
+| Pending reform | A public committee chaired by Prof. Shlomo Mor-Yosef (convened 2025) is examining an identified / open-identity donation track. No change is in force yet, but anonymity rules may change |
+
+**Egg Donation (trumat bitziot, תרומת ביציות):**
+
+| Aspect | Details |
+|--------|---------|
+| Legal status | Legal and regulated under the Egg Donation Law 2010 (chok trumat bitziot, חוק תרומת ביציות) |
+| Who can use | Women who cannot use their own eggs (premature ovarian insufficiency, repeated IVF failure with poor egg quality, genetic risk, or age-related decline) |
+| Recipient coverage | Funded by the health basket for eligible recipients within the standard age window (roughly 18-54), subject to the 2-live-birth IVF entitlement |
+| Donors | Egg donors are compensated (around 20,000 NIS per cycle); donations are coordinated through licensed units |
+| In surrogacy | A surrogate may never also be the egg donor (a legal requirement that keeps all Israeli surrogacy gestational, not traditional) |
 
 **Surrogacy (pundakaut, פונדקאות):**
 
 | Aspect | Details |
 |--------|---------|
 | Legal status | Legal under the Embryo Carrying Agreements Law 1996 (chok hapundakaut, חוק הפונדקאות) |
-| Who can use | Couples (married or cohabiting) and single individuals (men and women), expanded by High Court ruling and reform that took effect January 2022 to include single men and same-sex couples. A March 2024 Supreme Court ruling further required automatic recognition of both same-sex parents on birth certificates |
+| Who can use | Couples (married or cohabiting) and single individuals (men and women). A reform that took effect January 2022 expanded eligibility to include single men and same-sex couples (following a High Court ruling) |
 | Approval process | Requires approval from a special committee (vaada le'ishur heskemei pundakaut, ועדה לאישור הסכמי פונדקאות) |
 | Surrogate requirements | Must be Israeli resident, age 22-39, has given birth before, not genetically related to the intended parents |
 | Cost | Significant out-of-pocket costs (compensation, legal, medical), typically 150,000-250,000 NIS total |
@@ -164,23 +175,37 @@ Understanding what is covered vs. out-of-pocket helps with financial planning.
 | Egg freezing (medical indication, age <=39) | Yes (per cap) | Storage fees: 1,000-2,000 NIS/year (typically not covered) |
 | Egg freezing (elective, no medical indication) | No | 10,000-15,000 NIS per cycle + 1,000-2,000 NIS/year storage |
 | Sperm donation | Yes (for eligible recipients) | Minimal |
+| Egg donation (recipient) | Yes (for eligible recipients within the IVF entitlement) | Minimal copays; donor compensation is funded, not paid by recipient |
 | Surrogacy | No (medical costs may be partially covered) | 150,000-250,000 NIS total |
 | Private fertility clinic (full cycle) | No (unless SHABAN agreement) | 20,000-40,000 NIS per cycle |
 
 Financial assistance options:
 - Some non-profits assist with fertility treatment costs
 - Municipal grants may be available in certain cities
-- Tax deductions may apply for medical expenses exceeding 6% of income (consult a tax advisor)
+- Tax credits may apply for large documented medical expenses (consult a tax advisor for the current threshold and eligibility)
 - SHABAN enrollment before treatment can significantly reduce costs for additional children
 
-### Step 7: Emotional Support Resources During Fertility Treatment
+### Step 7: Work Rights During Fertility Treatment
+
+Fertility treatment is demanding and time-consuming, so Israeli labor law protects employees who undergo it.
+
+| Right | Details |
+|-------|---------|
+| Paid absence for treatment | Under the Women's Employment Regulations (Absence for Fertility and IVF Treatments) 1990, an employee may be absent for treatment and count it against accrued sick days: up to 16 days per IVF cycle on a 5-day work week (20 days on a 6-day week), for up to 4 cycles per year |
+| Who is covered | Applies to women undergoing treatment, and (for the prescribed shorter periods) to men undergoing fertility treatment. The employee must notify the employer in advance and provide medical confirmation |
+| Anti-dismissal protection | Under the Women's Employment Law, an employer may not dismiss an employee during fertility treatments (for a first or second child) nor during the 150 days following the absence, without a permit from the Ministry of Labor |
+| Practical step | Tell HR before you start a cycle, submit the doctor's confirmation (ishur refui), and keep copies. If you are dismissed during the protected window, contact the Ministry of Labor or a labor-rights organization |
+
+These are statutory rights and do not depend on which kupat cholim or SHABAN plan you hold.
+
+### Step 8: Emotional Support Resources During Fertility Treatment
 
 Fertility treatment can be emotionally challenging. Israel offers several support resources.
 
 | Resource | Description | Contact |
 |----------|-------------|---------|
 | Kupat cholim support groups | Free group sessions through your health fund | Contact your kupat cholim's fertility unit |
-| Chen (חן) | Fertility support organization offering counseling and peer groups | chen-fertility.org.il |
+| Chen (חן) | Fertility support organization (Amutat Chen) offering counseling and peer groups | amotatchen.org (tel. 03-5050345) |
 | Social workers at fertility clinics | Every licensed fertility unit has a social worker available | Ask at your clinic |
 | Yad Sarah (יד שרה) | Provides medical equipment lending and support | 02-6444444 |
 | Online forums | Hebrew-language fertility forums for peer support | Various Israeli fertility communities |
@@ -224,9 +249,9 @@ User says: "I'm 33 and single. I want to freeze my eggs. Is this covered?"
 
 Actions:
 1. Elective egg freezing (without a medical indication) is NOT in the basic health basket. Even for healthy women ages 30-41, the basic basket does not fund the procedure
-2. Medical egg freezing is covered up to age 39 for women with documented medical risk (cancer treatment, premature ovarian insufficiency, BRCA carriers facing oophorectomy, etc.)
+2. Medical egg freezing is covered up to age 39 for women with documented medical risk (cancer treatment, premature ovarian insufficiency, BRCA carriers facing oophorectomy, etc.), with a basket cap of 4 cycles or 20 eggs (up to 6 cycles or 40 eggs for specific genetic indications such as fragile-X premutation carriers)
 3. If you have a medical indication, ask your gynecologist for a referral to a fertility unit and request that the kupat cholim review eligibility
-4. If your goal is purely social/elective preservation, the only supplementary plan that contributes anything today is Meuhedet "Adif C". Otherwise expect to pay 10,000-15,000 NIS per cycle plus 1,000-2,000 NIS/year storage out-of-pocket
+4. If your goal is purely social/elective preservation, check your SHABAN: as of 2025-2026 Clalit, Maccabi, and Meuhedet subsidize elective freezing (roughly ages 30-38, about 3,500 NIS copay per cycle), while Leumit does not. Without a subsidizing plan, expect to pay 10,000-15,000 NIS per cycle plus 1,000-2,000 NIS/year storage out-of-pocket
 5. The retrieved eggs can later be used for IVF, subject to the 2-live-birth cap and age 45 limit at thaw
 
 Result: The woman learns that healthy elective egg freezing is out-of-pocket. She decides whether to pursue it privately, switch to Meuhedet for partial cover, or wait. If a medical indication later applies, the kupat cholim path opens up.
@@ -258,19 +283,22 @@ Result: The couple begins the surrogacy application process. They consult with a
 ## Gotchas
 
 - The IVF coverage limit is based on live births (2), not on the number of IVF cycles. Agents often confuse cycles with outcomes and may incorrectly state there is a cycle cap.
-- Israel's surrogacy law was expanded by High Court ruling, with same-sex couples and single men gaining access in January 2022 and a March 2024 Supreme Court decision automating dual-mother birth certificates. Agents trained on older data may state that surrogacy is limited to heterosexual couples only.
-- Elective egg freezing for healthy women is NOT in the basic health basket, despite a popular myth. Only medical egg freezing (with a documented indication, up to age 39) is funded. Older skill content and several lifestyle articles incorrectly claim ages 30-41 are covered electively. Among supplementary plans, only Meuhedet "Adif C" currently contributes anything to elective freezing.
+- Israel's surrogacy law was expanded in January 2022 (following a High Court ruling) so single men and same-sex couples can use surrogacy. The separate March 2024 Supreme Court ruling on dual-mother birth certificates is NOT a surrogacy ruling: it concerns lesbian co-mothers registering both as mothers for children born via sperm donation. Agents conflate the two. Surrogacy is no longer limited to heterosexual couples.
+- Elective egg freezing for healthy women is NOT in the basic health basket, despite a popular myth. Only medical egg freezing (with a documented indication, up to age 39) is funded. The funded medical cap is 4 cycles or 20 eggs (up to 6 cycles or 40 eggs for specific genetic indications such as fragile-X premutation carriers), NOT the 25-35 eggs sometimes quoted (those are private SHABAN limits). Among supplementary plans, Clalit, Maccabi, and Meuhedet now subsidize elective freezing; Leumit is the lone holdout. Older content claiming "Meuhedet only" or "ages 30-41 covered electively by the basket" is stale.
 - The "2 live births" counter resets with a new relationship. Agents may not mention this nuance, which significantly affects coverage eligibility.
 - SHABAN (supplementary insurance) waiting periods for fertility benefits are typically 6-12 months. Agents may omit this, leading users to enroll and expect immediate coverage.
-- The 2026 health basket added PGT (preimplantation genetic testing) for BRCA1/BRCA2 carriers as part of IVF. Other PGT indications still depend on case-by-case approval.
+- The 2026 health basket added PGT (preimplantation genetic testing) for carriers of high-cancer-risk mutations (BRCA1/BRCA2 and Lynch syndrome) as part of IVF. Other PGT indications still depend on case-by-case approval.
+- Employees have statutory paid absence for fertility treatment (counted against sick days, up to 16 days/cycle on a 5-day week) plus anti-dismissal protection during treatment and for 150 days after, under the Women's Employment Regulations 1990 and the Women's Employment Law. Agents focused only on medical coverage routinely omit these labor rights.
+- Egg donation (chok trumat bitziot 2010) is a separate funded track from sperm donation. Agents often cover sperm donation only and forget that ovum donation is legal, regulated, and basket-funded for eligible recipients.
 
 ## Reference Links
 
 | Source | URL | What to Check |
 |--------|-----|---------------|
 | Ministry of Health | https://www.health.gov.il/English/Pages/HomePage.aspx | Fertility treatment policies and eligibility |
-| Health Basket (Sal Briyut) | https://www.gov.il/en/departments/dynamiccollectors/sal-collector | Covered fertility treatments and procedures |
-| Kol Zchut – Fertility Rights | https://www.kolzchut.org.il/en/Fertility_Treatments | Bilingual explanations of IVF coverage and rights |
+| Health Basket (Sal Briyut) | https://www.health.gov.il/UnitsOffice/HD/MTI/info/Pages/HealthServicesBasket.aspx | Covered fertility treatments and procedures |
+| Kol Zchut – Fertility Rights | https://www.kolzchut.org.il/he/טיפולי_פוריות | Explanations of IVF coverage, egg/sperm donation, and rights |
+| Kol Zchut – Absence for Fertility Treatment | https://www.kolzchut.org.il/he/היעדרות_מהעבודה_וימי_מחלה_בגין_טיפולי_פוריות | Work-leave days and anti-dismissal protection during treatment |
 | Knesset Surrogacy Law | https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/default.aspx | Embryo Carrying Agreements Law 1996 |
 | Bituach Leumi Maternity | https://www.btl.gov.il | Maternity benefits, IVF sick leave, insurance rights |
 
