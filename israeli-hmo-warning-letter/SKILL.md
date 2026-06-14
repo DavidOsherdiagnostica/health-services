@@ -285,6 +285,9 @@ Rebuttal: The State Comptroller 2024 found that HMOs set internal standards — 
 **Defense 5 — "Periphery — force majeure":**
 Rebuttal: 18-35 fields in the periphery versus 69 in Tel Aviv — this is a **budget choice** by the HMOs, not force majeure. The Comptroller found that no special incentives were established to attract doctors to the periphery.
 
+**Defense 6 — "War — force majeure":**
+Rebuttal: Israeli case law has explicitly ruled that war does not constitute force majeure in Israel. Justice Moshe Landau held that "as long as the State of Israel has not achieved peace with its neighbors, war sooner or later is a foreseeable event in Israel" — and therefore does not constitute a frustrating circumstance. This ruling aligns with the accepted approach worldwide, whereby war is not inherently an unforeseeable event. An HMO that did not prepare in advance for the possibility of war cannot rely on it as an alibi for availability failures.
+
 ---
 
 ## Letter Structure — Six Paragraphs
