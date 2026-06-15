@@ -1,0 +1,13 @@
+{
+  "name": "israeli-hmo-warning-letter",
+  "display_name": "HMO Warning Letter",
+  "display_name_he": "מכתב התראה לקופת החולים",
+  "display_description": "Generate a personalized pre-litigation warning letter to your Israeli HMO when specialist appointment wait times are unreasonable or private treatment funding was denied.",
+  "display_description_he": "יצירת מכתב התראה משפטי מותאם אישית לקופת החולים כשההמתנה לתור ארוכה מדי או שנסרב לך מימון טיפול פרטי.",
+  "category": "health-services",
+  "version": "1.0.0",
+  "author": "DavidOsherdiagnostica",
+  "tags": ["health", "legal", "HMO", "patient-rights", "warning-letter", "insurance"],
+  "tags_he": ["בריאות", "משפטי", "קופת-חולים", "זכויות-חולה", "מכתב-התראה"],
+  "supported_agents": ["claude-code", "claude-desktop", "claude-ai", "cursor", "windsurf", "gemini-cli", "codex", "github-copilot", "chatgpt"]
+}
